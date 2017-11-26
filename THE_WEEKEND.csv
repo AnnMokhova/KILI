@@ -1,0 +1,1250 @@
+42176;#doc=TheWeeknd.2.txt;;;;;;;;;;;;;;
+42177;1;Интервьюер;ИНТЕРВЬЮЕР;S m anim nom sg;;;р;е;ю;ь;в;р;S;ИНТЕРВЬЮЕР;S m anim nom sg
+42178;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+42179;3;Расскажи;РАССКАЗАТЬ;V pf - sg imper - 2p;;;и;ж;а;к;с;с;V;РАССКАЗАТЬ;V pf - sg imper - 2p
+42180;4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42181;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42182;6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+42183;7;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+42184;8;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+42185;9;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+42186;10;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+42187;11;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42188;12;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+42189;13;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+42190;14;пжалста;ПЖАЛСТ;S m inan gen sg;distort;;а;т;с;л;а;ж;S;ПОЖАЛУЙСТА;PART 
+42191;15;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42192;16;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+42193;17;";";";";SENT;;;;;;;;;SENT;";";SENT
+42194;;;;;;;;;;;;;;;
+42195;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42196;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+42197;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+42198;4;пожалуйса;ПОЖАЛУЙС;S m anim acc sg;;;а;с;й;у;л;а;S;ПОЖАЛУЙСТА;PART
+42199;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42200;6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+42201;7;";";";";SENT;;;;;;;;;SENT;";";SENT
+42202;;;;;;;;;;;;;;;
+42203;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+42204;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+42205;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42206;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+42207;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+42208;;;;;;;;;;;;;;;
+42209;1;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42210;2;как;КАК;CONJ;;;к;а;к;;;;CONJ;КАК;CONJ
+42211;3;ты;ТЫ;SPRO sg 2p - nom;;;ы;т;;;;;SPRO;ТЫ;SPRO sg 2p - nom
+42212;4;провела;ПРОВЕСТИ;V pf praet sg indic f -;;;а;л;е;в;о;р;V;ПРОВЕСТИ;V pf praet sg indic f -
+42213;5;свои;СВОЙ;A - acc pl plen - inan;;;и;о;в;с;;;A;СВОЙ;A - acc pl plen - inan
+42214;6;последние;ПОСЛЕДНИЙ;A - acc pl plen - inan;;;е;и;н;д;е;л;A;ПОСЛЕДНИЙ;A - acc pl plen - inan
+42215;7;выходные;ВЫХОДНОЙ;S m inan acc pl;;;е;ы;н;д;о;х;S;ВЫХОДНОЙ;S m inan acc pl
+42216;8;.;.;SENT;;;;;;;;;SENT;.;PUNC
+42217;;;;;;;;;;;;;;;
+42218;1;Анфиса;АНФИСА;S f anim nom sg;;;а;с;и;ф;н;а;S;АНФИСА;S f anim nom sg persn
+42219;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+42220;3;Эээ;ЭЭЭ;NONLEX;;;э;э;э;;;;NONLEX;ЭЭЭ;INTJ
+42221;4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42222;5;так;ТАК;ADV -;;;к;а;т;;;;ADV;ТАК;PARENTH
+42223;6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42224;7;сегодня;СЕГОДНЯ;ADV -;;;я;н;д;о;г;е;ADV;СЕГОДНЯ;ADV -
+42225;8;воскрсенье;ВОСКРСЕНЬЯ;S f anim loc sg;;;е;ь;н;е;с;р;S;ВОСКРСЕНЬЕ;S f inan acc sg
+42226;9;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42227;10;в;В;PR;;;в;;;;;;PR;В;PR
+42228;11;пятницу;ПЯТНИЦА;S f inan acc sg;;;у;ц;и;н;т;я;S;ПЯТНИЦА;S f inan acc sg
+42229;12;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p anim nom
+42230;13;приехала;ПРИЕХАТЬ;V pf praet sg indic f -;;;а;л;а;х;е;и;V;ПРИЕХАТЬ;V pf praet sg indic f -
+42231;14;с;С;PR;;;с;;;;;;PR;С;PR
+42232;15;учебы..;УЧЕБА..;S m anim dat sg;;;;;ы;б;е;ч;S;УЧЕБА..;S f inan gen  sg
+42233;16;Вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+42234;17;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42235;18;сдала;СДАТЬ;V pf praet sg indic f -;;;а;л;а;д;с;;V;СДАТЬ;V pf praet sg indic f -
+42236;19;зачет;ЗАЧЕТ;S m inan acc sg;;;т;е;ч;а;з;;S;ЗАЧЕТ;S m inan acc sg
+42237;20;по;ПО;PR;;;о;п;;;;;PR;ПО;PR
+42238;21;анатомии;АНАТОМИЯ;S f inan dat sg;;;и;и;м;о;т;а;S;АНАТОМИЯ;S f inan dat sg
+42239;22;...;...;SENT;;;;;;;;;SENT;...;PUNC
+42240;;;;;;;;;;;;;;;
+42241;1;Приехала;ПРИЕХАТЬ;V pf praet sg indic f -;;;а;л;а;х;е;и;V;ПРИЕХАТЬ;V pf praet sg indic f -
+42242;2;с;С;PR;;;с;;;;;;PR;С;PR
+42243;3;учебы;УЧЕБА;S m inan loc sg;;;ы;б;е;ч;у;;S;УЧЕБА;S f inan gen sg
+42244;4;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+42245;5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42246;6;мне;Я;SPRO sg 1p - loc;;;е;н;м;;;;SPRO;Я;SPRO sg 1p anim dat
+42247;7;кажется;КАЗАТЬСЯ;V ipf praes sg indic - 3p;;;я;с;т;е;ж;а;V;КАЗАТЬСЯ;V ipf praes sg indic - 3p
+42248;8;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42249;9;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+42250;10;ничего;НИЧТО;S n - gen sg;;;о;г;е;ч;и;н;S;НИЧТО;APRO gen sg
+42251;11;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART
+42252;12;делала;ДЕЛАТЬ;V ipf praet sg indic f -;;;а;л;а;л;е;д;V;ДЕЛАТЬ;V ipf praet sg indic f -
+42253;13;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42254;14;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p anim nom
+42255;15;смотрела;СМОТРЕТЬ;V ipf praet sg indic f -;;;а;л;е;р;т;о;V;СМОТРЕТЬ;V ipf praet sg indic f -
+42256;16;сериал;СЕРИАЛ;S m inan acc sg;;;л;а;и;р;е;с;S;СЕРИАЛ;S m inan acc sg
+42257;17;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42258;18;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+42259;19;";";";";SENT;;;;;;;;;SENT;";";SENT
+42260;;;;;;;;;;;;;;;
+42261;1;I;I;NUM - - -;;;;;;;;;NUM;I;NUM - - -
+42262;2;zombie;ZOMBIE;NONLEX;;;;;;;;;NONLEX;ZOMBIE;NONLEX
+42263;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42264;4;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+42265;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+42266;;;;;;;;;;;;;;;
+42267;1;по;ПО;PR;;;о;п;;;;;PR;ПО;PR
+42268;2;нетфликсу;НЕТФЛИКС;S f inan acc sg;;;у;с;к;и;л;ф;S;НЕТФЛИКС;S m inan acc sg
+42269;3;.;.;SENT;;;;;;;;;SENT;.;SENT
+42270;;;;;;;;;;;;;;;
+42271;1;Э;Э;INTJ;;;э;;;;;;INTJ;Э;INTJ
+42272;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42273;3;уже;УЖЕ;ADV -;;;е;ж;у;;;;ADV;УЖЕ;ADV -
+42274;4;вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;INTJ
+42275;5;на;НА;PR;;;а;н;;;;;PR;НА;PR
+42276;6;третьем;ТРЕТИЙ;A - loc sg plen m -;;;м;е;ь;т;е;р;A;ТРЕТИЙ;ANUM loc sg plen m -
+42277;7;сезоне;СЕЗОН;S m inan loc sg;;;е;н;о;з;е;с;S;СЕЗОН;S m inan loc sg
+42278;8;за;ЗА;PR;;;а;з;;;;;PR;ЗА;PR
+42279;9;последние;ПОСЛЕДНИЙ;A - acc pl plen - inan;;;е;и;н;д;е;л;A;ПОСЛЕДНИЙ;A - acc pl plen - inan
+42280;10;шесть;ШЕСТЬ;NUM acc - -;;;ь;т;с;е;ш;;NUM;ШЕСТЬ;NUM acc - -
+42281;11;дней;ДЕНЬ;S m inan gen pl;;;й;е;н;д;;;S;ДЕНЬ;S m inan gen pl
+42282;12;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42283;13;так что;так что;ZERO;;;о;т;ч; ;к;а;ZERO;так что;CONJ
+42284;14;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42285;15;видимо;ВИДИМО;ADV -;;;о;м;и;д;и;в;ADV;ВИДИМО;PARENTH
+42286;16;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42287;17;сериал;СЕРИАЛ;S m inan nom sg;;;л;а;и;р;е;с;S;СЕРИАЛ;S m inan nom sg
+42288;18;мне;Я;SPRO sg 1p - loc;;;е;н;м;;;;SPRO;Я;SPRO sg 1p anim dat
+42289;19;нравится;НРАВИТЬСЯ;V ipf praes sg indic - 3p;;;я;с;т;и;в;а;V;НРАВИТЬСЯ;V ipf praes sg indic - 3p
+42290;20;.;.;SENT;;;;;;;;;SENT;.;PUNC
+42291;;;;;;;;;;;;;;;
+42292;1;Правда;ПРАВДА;ADV -;;;а;д;в;а;р;п;ADV;ПРАВДА;PARENTH
+42293;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42294;3;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+42295;4;вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+42296;5;когда;КОГДА;CONJ;;;а;д;г;о;к;;CONJ;КОГДА;CONJ
+42297;6;сплю;СПАТЬ;V ipf praes sg indic - 1p;;;ю;л;п;с;;;V;СПАТЬ;V ipf praes sg indic - 1p
+42298;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42299;8;мне;Я;SPRO sg 1p - loc;;;е;н;м;;;;SPRO;Я;SPRO sg 1p anim dat
+42300;9;снятся;СНИТЬСЯ;V ipf praes pl indic - 3p;;;я;с;т;я;н;с;V;СНИТЬСЯ;V ipf praes pl indic - 3p
+42301;10;сны;СОН;S m inan nom pl;;;ы;н;с;;;;S;СОН;S m inan acc pl
+42302;11;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42303;12;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+42304;13;там;ТАМ;ADV -;;;м;а;т;;;;ADV;ТАМ;ADVPRO
+42305;14;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42306;15;как бы;как бы;-;;;ы;б; ;к;а;к;-;как бы;INTJ
+42307;16;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42308;17;эти;ЭТОТ;A - nom pl plen - -;;;и;т;э;;;;A;ЭТОТ;APRO- nom pl plen - -
+42309;18;герои;ГЕРОЙ;S m anim nom pl;;;и;о;р;е;г;;S;ГЕРОЙ;S m inan nom pl
+42310;19;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42311;20;они;ОНИ;SPRO pl - - nom;;;и;н;о;;;;SPRO;ОНИ;SPRO pl anim - nom
+42312;21;что-то;ЧТО-ТО;S n - acc sg;;;о;т;;о;т;ч;S;ЧТО-ТО;SPRO n - acc sg
+42313;22;дальше;ДАЛЕКО;ADV comp;;;е;ш;ь;л;а;д;ADV;ДАЛЕКО;ADV comp
+42314;23;продолжают;ПРОДОЛЖАТЬ;V ipf praes pl indic - 3p;;;т;ю;а;ж;л;о;V;ПРОДОЛЖАТЬ;V ipf praes pl indic - 3p
+42315;24;делать;ДЕЛАТЬ;V ipf - - inf - -;;;ь;т;а;л;е;д;V;ДЕЛАТЬ;V ipf - - inf - -
+42316;25;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42317;26;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+42318;27;это;ЭТО;S n - nom sg;;;о;т;э;;;;S;ЭТО;SPRO n - nom sg
+42319;28;получается;ПОЛУЧАТЬСЯ;V ipf praes sg indic - 3p;;;я;с;т;е;а;ч;V;ПОЛУЧАТЬСЯ;V ipf praes sg indic - 3p
+42320;29;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42321;30;как;КАК;CONJ;;;к;а;к;;;;CONJ;КАК;CONJ
+42322;31;сериал;СЕРИАЛ;S m inan nom sg;;;л;а;и;р;е;с;S;СЕРИАЛ;S m inan nom sg
+42323;32;продолжается;ПРОДОЛЖАТЬСЯ;V ipf praes sg indic - 3p;;;я;с;т;е;а;ж;V;ПРОДОЛЖАТЬСЯ;V ipf praes sg indic - 3p
+42324;33;вне;ВНЕ;PR;;;е;н;в;;;;PR;ВНЕ;PR
+42325;34;..;..;SENT;;;;;;;;;SENT;..;PUNC
+42326;;;;;;;;;;;;;;;
+42327;1;Интервьюер;ИНТЕРВЬЮЕР;S m anim nom sg;;;р;е;ю;ь;в;р;S;ИНТЕРВЬЮЕР;S m anim nom sg
+42328;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+42329;3;Во;ВО;PR;;;о;в;;;;;PR;ВО;PR
+42330;4;сне;СОН;S m inan loc sg;;;е;н;с;;;;S;СОН;S m inan loc sg
+42331;5;?;?;SENT;;;;;;;;;SENT;?;SENT
+42332;;;;;;;;;;;;;;;
+42333;1;Анфиса;АНФИСА;S f anim nom sg;;;а;с;и;ф;н;а;S;АНФИСА;S f anim nom sg persn
+42334;2;@...;@...;PUNC;;;;;;;;;PUNC;@...;PUNC
+42335;3;вне;ВНЕ;PR;;;е;н;в;;;;PR;ВНЕ;PR
+42336;4;нетфликса;НЕТФЛИКС;S m anim acc sg;;;а;с;к;и;л;ф;S;НЕТФЛИКС;S m inan gen sg
+42337;5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42338;6;уже;УЖЕ;ADV -;;;е;ж;у;;;;ADV;УЖЕ;ADV -
+42339;7;в;В;PR;;;в;;;;;;PR;В;PR
+42340;8;голове;ГОЛОВА;S f inan loc sg;;;е;в;о;л;о;г;S;ГОЛОВА;S f inan loc sg
+42341;9;моей;МОЙ;A - gen sg plen f -;;;й;е;о;м;;;A;МОЙ;A - loc sg plen f -
+42342;10;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42343;11;да;ДА;PART;;;а;д;;;;;PART;ДА;PART
+42344;12;.;.;SENT;;;;;;;;;SENT;.;SENT
+42345;;;;;;;;;;;;;;;
+42346;1;И;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+42347;2;так;ТАК;ADV -;;;к;а;т;;;;ADV;ТАК;ADV -
+42348;3;со;СО;PR;;;о;с;;;;;PR;СО;PR
+42349;4;многими;МНОГИЙ;A - ins pl plen - -;;;и;м;и;г;о;н;A;МНОГИЙ;A - ins pl plen - -
+42350;5;сериалами;СЕРИАЛ;S m inan gen sg;;;и;м;а;л;а;и;S;СЕРИАЛ;S m inan ins sg
+42351;6;.;.;SENT;;;;;;;;;SENT;.;SENT
+42352;;;;;;;;;;;;;;;
+42353;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42354;2;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+42355;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+42356;4;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+42357;5;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+42358;6;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+42359;7;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42360;8;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+42361;9;";";";";SENT;;;;;;;;;SENT;";";SENT
+42362;;;;;;;;;;;;;;;
+42363;1;Тож;ТОЖ;ADV -;;;ж;о;т;;;;ADV;ТОЖ;ADV -
+42364;2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42365;3;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+42366;4;";";";";SENT;;;;;;;;;SENT;";";SENT
+42367;;;;;;;;;;;;;;;
+42368;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42369;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+42370;3;";";";";SENT;;;;;;;;;SENT;";";SENT
+42371;;;;;;;;;;;;;;;
+42372;1;То;ТО;CONJ;;;о;т;;;;;CONJ;ТО;CONJ
+42373;2;же;ЖЕ;PART;;;е;ж;;;;;PART;ЖЕ;PART
+42374;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42375;4;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+42376;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+42377;;;;;;;;;;;;;;;
+42378;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+42379;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+42380;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42381;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+42382;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+42383;;;;;;;;;;;;;;;
+42384;1;самое;САМЫЙ;A - nom sg plen n -;;;е;о;м;а;с;;A;САМЫЙ;A - nom sg plen n -
+42385;2;было;БЫТЬ;V ipf praet sg indic n -;;;о;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic n -
+42386;3;с;С;PR;;;с;;;;;;PR;С;PR
+42387;4;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42388;5;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+42389;6;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+42390;7;отчаянными;ОТЧАЯННЫЙ;A - ins pl plen - -;;;и;м;ы;н;н;я;A;ОТЧАЯННЫЙ;A - ins pl plen - -
+42391;8;домохозяйками;ДОМОХОЗЯЙКА;S m inan ins pl;;;и;м;а;к;й;я;S;ДОМОХОЗЯЙКА;S f anim ins pl
+42392;9;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42393;10;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+42394;11;";";";";SENT;;;;;;;;;SENT;";";SENT
+42395;;;;;;;;;;;;;;;
+42396;1;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42397;2;которых..;КОТОРЫЙ..;A - loc pl plen - -;;;;;х;ы;р;о;A;КОТОРЫЙ..;A - loc pl plen - -
+42398;3;моя;МОЙ;A - nom sg plen f -;;;я;о;м;;;;A;МОЙ;A - nom sg plen f -
+42399;4;голова;ГОЛОВА;S f inan nom sg;;;а;в;о;л;о;г;S;ГОЛОВА;S f inan nom sg
+42400;5;во;ВО;PR;;;о;в;;;;;PR;ВО;PR
+42401;6;сне;СОН;S m inan loc sg;;;е;н;с;;;;S;СОН;S m inan loc sg
+42402;7;объединила;ОБЪЕДИНИТЬ;V pf praet sg indic f -;;;а;л;и;н;и;д;V;ОБЪЕДИНИТЬ;V pf praet sg indic f -
+42403;8;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42404;9;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+42405;10;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+42406;11;отчаянные;ОТЧАЯННЫЙ;A - nom pl plen - -;;;е;ы;н;н;я;а;A;ОТЧАЯННЫЙ;A - nom pl plen - -
+42407;12;домохозяйки;ДОМОХОЗЯЙКА;S f anim nom pl;;;и;к;й;я;з;о;S;ДОМОХОЗЯЙКА;S f anim nom pl
+42408;13;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42409;14;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+42410;15;";";";";SENT;;;;;;;;;SENT;";";SENT
+42411;;;;;;;;;;;;;;;
+42412;1;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+42413;2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42414;3;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+42415;4;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+42416;5;the;THE;NONLEX;;;;;;;;;NONLEX;THE;NONLEX
+42417;6;reign;REIGN;NONLEX;;;;;;;;;NONLEX;REIGN;NONLEX
+42418;7;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42419;8;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+42420;9;";";";";SENT;;;;;;;;;SENT;";";SENT
+42421;;;;;;;;;;;;;;;
+42422;1;И;И;PART;;;и;;;;;;PART;И;PART
+42423;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42424;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42425;4;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+42426;5;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+42427;6;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+42428;7;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+42429;8;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+42430;9;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42431;10;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+42432;11;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+42433;12;тоисть;ТОИСТЬ;S f inan acc sg;distort;;ь;т;с;и;о;т;S;ТО ЕСТЬ;CONJ
+42434;13;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42435;14;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+42436;15;";";";";SENT;;;;;;;;;SENT;";";SENT
+42437;;;;;;;;;;;;;;;
+42438;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42439;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+42440;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+42441;4;то есть;то есть;-;;;ь;т;с;е; ;о;-;то есть;CONJ
+42442;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42443;6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+42444;7;";";";";SENT;;;;;;;;;SENT;";";SENT
+42445;;;;;;;;;;;;;;;
+42446;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+42447;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+42448;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42449;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+42450;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+42451;;;;;;;;;;;;;;;
+42452;1;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42453;2;у;У;PR;;;у;;;;;;PR;У;PR
+42454;3;меня;Я;SPRO sg 1p - acc;;;я;н;е;м;;;SPRO;Я;SPRO sg 1p - gen
+42455;4;была;БЫТЬ;V ipf praet sg indic f -;;;а;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic f -
+42456;5;королева;КОРОЛЕВА;S f anim nom sg;;;а;в;е;л;о;р;S;КОРОЛЕВА;S f anim nom sg
+42457;6;Шотландии;ШОТЛАНДИЯ;S f inan gen sg;;;и;и;д;н;а;л;S;ШОТЛАНДИЯ;S f inan gen sg
+42458;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42459;8;которая;КОТОРЫЙ;A - nom sg plen f -;;;я;а;р;о;т;о;A;КОТОРЫЙ;APRO nom sg plen f -
+42460;9;бьет;БИТЬ;V ipf praes sg indic - 3p;;;т;е;ь;б;;;V;БИТЬ;V ipf praes sg indic - 3p
+42461;10;сковородкой;СКОВОРОДКА;S f inan ins sg;;;й;о;к;д;о;р;S;СКОВОРОДКА;S f inan ins sg
+42462;11;другую;ДРУГОЙ;A - acc sg plen f -;;;ю;у;г;у;р;д;A;ДРУГОЙ;A - acc sg plen f -
+42463;12;бабу;БАБА;S f anim acc sg;;;у;б;а;б;;;S;БАБА;S f anim acc sg
+42464;13;..;..;SENT;;;;;;;;;SENT;..;SENT
+42465;;;;;;;;;;;;;;;
+42466;1;Ну;НУ;PART;;;у;н;;;;;PART;НУ;PART
+42467;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42468;3;в;В;PR;;;в;;;;;;PR;В;PR
+42469;4;таком;ТАКОЙ;A - loc sg plen m -;;;м;о;к;а;т;;A;ТАКОЙ;APRO loc sg plen m -
+42470;5;духе;ДУХ;S m inan loc sg;;;е;х;у;д;;;S;ДУХ;S m inan loc sg
+42471;6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42472;7;понимаете;ПОНИМАТЬ;V ipf praes pl indic - 2p;;;е;т;е;а;м;и;V;ПОНИМАТЬ;V ipf praes pl indic - 2p
+42473;8;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42474;9;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42475;10;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+42476;11;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+42477;12;отчаянные;ОТЧАЯННЫЙ;A - nom pl plen - -;;;е;ы;н;н;я;а;A;ОТЧАЯННЫЙ;A - nom pl plen - -
+42478;13;домохозяйки;ДОМОХОЗЯЙКА;S f anim nom pl;;;и;к;й;я;з;о;S;ДОМОХОЗЯЙКА;S f anim nom pl
+42479;14;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42480;15;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+42481;16;";";";";SENT;;;;;;;;;SENT;";";SENT
+42482;;;;;;;;;;;;;;;
+42483;1;и...;И...;CONJ;;;;;;и;;;CONJ;И...;CONJ
+42484;2;царство;ЦАРСТВО;S n inan acc sg;;;о;в;т;с;р;а;S;ЦАРСТВО;S n inan nom sg
+42485;3;.;.;SENT;;;;;;;;;SENT;.;SENT
+42486;;;;;;;;;;;;;;;
+42487;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42488;2;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+42489;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+42490;4;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+42491;5;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+42492;6;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+42493;7;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42494;8;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+42495;9;";";";";SENT;;;;;;;;;SENT;";";SENT
+42496;;;;;;;;;;;;;;;
+42497;1;Вооот;ВОООТ;S n inan nonflex nonflex;distort;;т;о;о;о;в;;S;ВОТ;INTJ
+42498;2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42499;3;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+42500;4;";";";";SENT;;;;;;;;;SENT;";";SENT
+42501;;;;;;;;;;;;;;;
+42502;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42503;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+42504;3;";";";";SENT;;;;;;;;;SENT;";";SENT
+42505;;;;;;;;;;;;;;;
+42506;1;Вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;INTJ
+42507;2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42508;3;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+42509;4;";";";";SENT;;;;;;;;;SENT;";";SENT
+42510;;;;;;;;;;;;;;;
+42511;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+42512;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+42513;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42514;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+42515;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+42516;;;;;;;;;;;;;;;
+42517;1;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42518;2;а;А;CONJ;;;а;;;;;;CONJ;А;CONJ
+42519;3;из-за;ИЗ-ЗА;PR;;;а;з;;з;и;;PR;ИЗ-ЗА;PR
+42520;4;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42521;5;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+42522;6;";";";";SENT;;;;;;;;;SENT;";";SENT
+42523;;;;;;;;;;;;;;;
+42524;1;I;I;NUM - - -;;;;;;;;;NUM;I;SPRO sg 1p anim nom
+42525;2;zombie;ZOMBIE;NONLEX;;;;;;;;;NONLEX;ZOMBIE;S 0
+42526;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42527;4;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+42528;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+42529;;;;;;;;;;;;;;;
+42530;1;вчера;ВЧЕРА;ADV -;;;а;р;е;ч;в;;ADV;ВЧЕРА;ADV -
+42531;2;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p anim nom
+42532;3;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42533;4;вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+42534;5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42535;6;например;НАПРИМЕР;ADV -;;;р;е;м;и;р;п;ADV;НАПРИМЕР;ADV -
+42536;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42537;8;ела;ЕСТЬ;V ipf praet sg indic f -;;;а;л;е;;;;V;ЕСТЬ;V ipf praet sg indic f -
+42538;9;замороженную;ЗАМОРОЗИТЬ;PARTCP pf praet acc sg plen f pass -;;;ю;у;н;н;е;ж;PARTCP;ЗАМОРОЗИТЬ;PARTCP pf praet acc sg plen f pass -
+42539;10;лазанью;ЛАЗАНЬЕ;S n inan dat sg;;;ю;ь;н;а;з;а;S;ЛАЗАНЬЯ;S f inan acc sg
+42540;11;из;ИЗ;PR;;;з;и;;;;;PR;ИЗ;PR
+42541;12;микроволновки;МИКРОВОЛНОВКА;S f inan nom pl;;;и;к;в;о;н;л;S;МИКРОВОЛНОВКА;S f inan gen pl
+42542;13;.;.;SENT;;;;;;;;;SENT;.;SENT
+42543;;;;;;;;;;;;;;;
+42544;1;Вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+42545;2;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p anim nom
+42546;3;ее;ОНА;SPRO sg 3p f acc;;;е;е;;;;;SPRO;ОНА;SPRO sg 3p f gen
+42547;4;ем;ЕСТЬ;V ipf praes sg indic - 1p;;;м;е;;;;;V;ЕСТЬ;V ipf praes sg indic - 1p
+42548;5;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+42549;6;ем;ЕСТЬ;V ipf praes sg indic - 1p;;;м;е;;;;;V;ЕСТЬ;V ipf praes sg indic - 1p
+42550;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42551;8;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+42552;9;у;У;PR;;;у;;;;;;PR;У;PR
+42553;10;меня;Я;SPRO sg 1p - acc;;;я;н;е;м;;;SPRO;Я;SPRO sg 1p anin gen
+42554;11;такое;ТАКОЙ;A - nom sg plen n -;;;е;о;к;а;т;;A;ТАКОЙ;A - acc sg plen n -
+42555;12;странное;СТРАННЫЙ;A - nom sg plen n -;;;е;о;н;н;а;р;A;СТРАННЫЙ;A - acc sg plen n -
+42556;13;ощущение;ОЩУЩЕНИЕ;S n inan nom sg;;;е;и;н;е;щ;у;S;ОЩУЩЕНИЕ;S n inan acc sg
+42557;14;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42558;15;что;ЧТО;CONJ;;;о;т;ч;;;;CONJ;ЧТО;CONJ
+42559;16;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p anim nom
+42560;17;ем;ЕСТЬ;V ipf praes sg indic - 1p;;;м;е;;;;;V;ЕСТЬ;V ipf praes sg indic - 1p
+42561;18;мозги..;МОЗГИ..;S - inan acc pl;;;;;и;г;з;о;S;МОЗГИ..;S - inan acc pl
+42562;19;человеческие;ЧЕЛОВЕЧЕСКИЙ;A - nom pl plen - -;;;е;и;к;с;е;ч;A;ЧЕЛОВЕЧЕСКИЙ;A - nom pl plen - -
+42563;20;.;.;SENT;;;;;;;;;SENT;.;SENT
+42564;;;;;;;;;;;;;;;
+42565;1;Потому что;Потому что;ZERO;;;о;т;ч; ;у;м;ZERO;Потому что;CONJ
+42566;2;в;В;PR;;;в;;;;;;PR;В;PR
+42567;3;сериале;СЕРИАЛ;S m inan loc sg;;;е;л;а;и;р;е;S;СЕРИАЛ;S m inan loc sg
+42568;4;вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+42569;5;она;ОНА;SPRO sg 3p f nom;;;а;н;о;;;;SPRO;ОНА;SPRO sg 3p f nom
+42570;6;постоянно;ПОСТОЯННО;ADV -;;;о;н;н;я;о;т;ADV;ПОСТОЯННО;ADV -
+42571;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42572;8;типо;ТИПО;S m anim nonflex nonflex;distort;;о;п;и;т;;;S;ТИПО;PARENTH
+42573;9;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42574;10;главная;ГЛАВНЫЙ;A - nom sg plen f -;;;я;а;н;в;а;л;A;ГЛАВНЫЙ;A - nom sg plen f -
+42575;11;героиня;ГЕРОИНЯ;S f anim nom sg;;;я;н;и;о;р;е;S;ГЕРОИНЯ;S f anim nom sg
+42576;12;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42577;13;она;ОНА;SPRO sg 3p f nom;;;а;н;о;;;;SPRO;ОНА;SPRO sg 3p f nom
+42578;14;готовит;ГОТОВИТЬ;V ipf praes sg indic - 3p;;;т;и;в;о;т;о;V;ГОТОВИТЬ;V ipf praes sg indic - 3p
+42579;15;себе;СЕБЯ;SPRO - - - loc;;;е;б;е;с;;;SPRO;СЕБЯ;SPRO - - - dat
+42580;16;блюда;БЛЮДО;S n inan gen sg;;;а;д;ю;л;б;;S;БЛЮДО;S n inan gen pl
+42581;17;с;С;PR;;;с;;;;;;PR;С;PR
+42582;18;мозгами..;МОЗГИ..;S m inan gen sg;;;;;и;м;а;г;S;МОЗГИ..;S m inan gen pl
+42583;19;И;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+42584;20;вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+42585;21;она;ОНА;SPRO sg 3p f nom;;;а;н;о;;;;SPRO;ОНА;SPRO sg 3p f nom
+42586;22;их;ОНИ;SPRO pl - - acc;;;х;и;;;;;SPRO;ОНИ;SPRO pl - - acc
+42587;23;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42588;24;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+42589;25;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+42590;26;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+42591;27;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+42592;28;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+42593;29;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42594;30;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+42595;31;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+42596;32;чёта;ЧЕТА;S f inan nom sg;distort;;а;т;ё;ч;;;S;ЧЕТА;SPRO inan acc sg
+42597;33;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42598;34;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+42599;35;";";";";SENT;;;;;;;;;SENT;";";SENT
+42600;;;;;;;;;;;;;;;
+42601;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42602;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+42603;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+42604;4;что-то;ЧТО-ТО;S n inan nom sg;;;о;т;;о;т;ч;S;ЧТО-ТО;SPRO inan acc sg
+42605;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42606;6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+42607;7;";";";";SENT;;;;;;;;;SENT;";";SENT
+42608;;;;;;;;;;;;;;;
+42609;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+42610;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+42611;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42612;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+42613;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+42614;;;;;;;;;;;;;;;
+42615;1;интересное;ИНТЕРЕСНЫЙ;A - nom sg plen n -;;;е;о;н;с;е;р;A;ИНТЕРЕСНЫЙ;A - acc sg plen n -
+42616;2;делает;ДЕЛАТЬ;V ipf praes sg indic - 3p;;;т;е;а;л;е;д;V;ДЕЛАТЬ;V ipf praes sg indic - 3p
+42617;3;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42618;4;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+42619;5;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p anim nom
+42620;6;была;БЫТЬ;V ipf praet sg indic f -;;;а;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic f -
+42621;7;уверена;УВЕРЕННЫЙ;A - - sg brev f -;;;а;н;е;р;е;в;A;УВЕРЕННЫЙ;A - - sg brev f -
+42622;8;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42623;9;что;ЧТО;CONJ;;;о;т;ч;;;;CONJ;ЧТО;CONJ
+42624;10;в;В;PR;;;в;;;;;;PR;В;PR
+42625;11;этой;ЭТОТ;A - loc sg plen f -;;;й;о;т;э;;;A;ЭТОТ;APRO - loc sg plen f -
+42626;12;лазанье;ЛАЗАНЬЕ;S f inan loc sg;;;е;ь;н;а;з;а;S;ЛАЗАНЬЕ;S f inan loc sg
+42627;13;есть;БЫТЬ;V ipf praes sg indic - 3p;;;ь;т;с;е;;;V;БЫТЬ;V ipf praes sg indic - 3p
+42628;14;что-то;ЧТО-ТО;S n - nom sg;;;о;т;;о;т;ч;S;ЧТО-ТО;SPRO - - acc sg
+42629;15;похожее;ПОХОЖИЙ;A - nom sg plen n -;;;е;е;ж;о;х;о;A;ПОХОЖИЙ;A - acc sg plen n -
+42630;16;на;НА;PR;;;а;н;;;;;PR;НА;PR
+42631;17;мозги;МОЗГИ;S - inan acc pl;;;и;г;з;о;м;;S;МОЗГИ;S - inan acc pl
+42632;18;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42633;19;то есть;то есть;-;;;ь;т;с;е; ;о;-;то есть;SPRO n inan nom ag + V tran ipf 3p sg indic
+42634;20;чувство;ЧУВСТВО;S n inan nom sg;;;о;в;т;с;в;у;S;ЧУВСТВО;S n inan nom sg
+42635;21;было;БЫТЬ;V ipf praet sg indic n -;;;о;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic n -
+42636;22;..;..;SENT;;;;;;;;;SENT;..;SENT
+42637;;;;;;;;;;;;;;;
+42638;1;Интервьюер;ИНТЕРВЬЮЕР;S m anim nom sg;;;р;е;ю;ь;в;р;S;ИНТЕРВЬЮЕР;S m anim nom sg
+42639;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+42640;3;Мясо;МЯСО;S n inan nom sg;;;о;с;я;м;;;S;МЯСО;S n inan nom sg
+42641;4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42642;5;да;ДА;PART;;;а;д;;;;;PART;ДА;PART
+42643;6;?;?;SENT;;;;;;;;;SENT;?;SENT
+42644;;;;;;;;;;;;;;;
+42645;1;Анфиса;АНФИСА;S f anim nom sg;;;а;с;и;ф;н;а;S;АНФИСА;S f anim nom sg
+42646;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+42647;3;Там;ТАМ;ADV -;;;м;а;т;;;;ADV;ТАМ;ADV -
+42648;4;был;БЫТЬ;V ipf praet sg indic m -;;;л;ы;б;;;;V;БЫТЬ;V ipf praet sg indic m -
+42649;5;бекон;БЕКОН;S m inan acc sg;;;н;о;к;е;б;;S;БЕКОН;S m inan acc sg
+42650;6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42651;7;да;ДА;PART;;;а;д;;;;;PART;ДА;PART
+42652;8;.;.;SENT;;;;;;;;;SENT;.;SENT
+42653;;;;;;;;;;;;;;;
+42654;1;И;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+42655;2;вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+42656;3;именно;ИМЕННО;PART;;;о;н;н;е;м;и;PART;ИМЕННО;PART
+42657;4;он;ОН;SPRO sg 3p m nom;;;н;о;;;;;SPRO;ОН;SPRO inan sg 3p m nom
+42658;5;был;БЫТЬ;V ipf praet sg indic m -;;;л;ы;б;;;;V;БЫТЬ;V ipf praet sg indic m -
+42659;6;похож;ПОХОЖИЙ;A - - sg brev m -;;;ж;о;х;о;п;;A;ПОХОЖИЙ;A - - sg brev m -
+42660;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42661;8;это;ЭТО;S n - nom sg;;;о;т;э;;;;S;ЭТО;SPRO n - nom sg
+42662;9;было;БЫТЬ;V ipf praet sg indic n -;;;о;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic n -
+42663;10;очень;ОЧЕНЬ;ADV -;;;ь;н;е;ч;о;;ADV;ОЧЕНЬ;ADV -
+42664;11;странно;СТРАННО;ADV -;;;о;н;н;а;р;т;ADV;СТРАННО;ADV -
+42665;12;.;.;SENT;;;;;;;;;SENT;.;SENT
+42666;;;;;;;;;;;;;;;
+42667;1;Причем;ПРИЧЕМ;CONJ;;;м;е;ч;и;р;п;CONJ;ПРИЧЕМ;CONJ
+42668;2;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p anim nom
+42669;3;отдавала;ОТДАВАТЬ;V ipf praet sg indic f -;;;а;л;а;в;а;д;V;ОТДАВАТЬ;V ipf praet sg indic f -
+42670;4;себе;СЕБЯ;SPRO - - - loc;;;е;б;е;с;;;SPRO;СЕБЯ;SPRO - - - dat
+42671;5;отчет;ОТЧЕТ;S m inan nom sg;;;т;е;ч;т;о;;S;ОТЧЕТ;S m inan acc sg
+42672;6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42673;7;как бы;как бы;-;;;ы;б; ;к;а;к;-;как бы;SPRO + PART
+42674;8;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42675;9;что;ЧТО;CONJ;;;о;т;ч;;;;CONJ;ЧТО;CONJ
+42676;10;это;ЭТО;S n - nom sg;;;о;т;э;;;;S;ЭТО;SPRO n - nom sg
+42677;11;вообще;ВООБЩЕ;ADV -;;;е;щ;б;о;о;в;ADV;ВООБЩЕ;ADV -
+42678;12;нереально;НЕРЕАЛЬНО;ADV -;;;о;н;ь;л;а;е;ADV;НЕРЕАЛЬНО;ADV -
+42679;13;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42680;14;это;ЭТО;S n - nom sg;;;о;т;э;;;;S;ЭТО;SPRO n - nom sg
+42681;15;все;ВЕСЬ;A - nom pl plen - -;;;е;с;в;;;;A;ВЕСЬ;APRO inan nom pl plen - -
+42682;16;из-за;ИЗ-ЗА;PR;;;а;з;;з;и;;PR;ИЗ-ЗА;PR
+42683;17;сериала;СЕРИАЛ;S m inan gen sg;;;а;л;а;и;р;е;S;СЕРИАЛ;S m inan gen sg
+42684;18;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42685;19;но;НО;CONJ;;;о;н;;;;;CONJ;НО;CONJ
+42686;20;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p anim nom
+42687;21;вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+42688;22;реально;РЕАЛЬНО;ADV -;;;о;н;ь;л;а;е;ADV;РЕАЛЬНО;ADV -
+42689;23;каждый;КАЖДЫЙ;A - nom sg plen m -;;;й;ы;д;ж;а;к;A;КАЖДЫЙ;A - nom sg plen m -
+42690;24;раз;РАЗ;S m inan nom sg;;;з;а;р;;;;S;РАЗ;S m inan nom sg
+42691;25;клала;КЛАСТЬ;V ipf praet sg indic f -;;;а;л;а;л;к;;V;КЛАСТЬ;V ipf praet sg indic f -
+42692;26;вилку;ВИЛКА;S f inan acc sg;;;у;к;л;и;в;;S;ВИЛКА;S f inan acc sg
+42693;27;в;В;PR;;;в;;;;;;PR;В;PR
+42694;28;рот;РОТ;S m inan acc sg;;;т;о;р;;;;S;РОТ;S m inan acc sg
+42695;29;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42696;30;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+42697;31;такая;ТАКОЙ;A - nom sg plen f -;;;я;а;к;а;т;;A;ТАКОЙ;SPRO anim - nom sg  f -
+42698;32;:;:;PUNC;;;;;;;;;PUNC;:;PUNC
+42699;33;бля;БЛЯ;INTJ;;;я;л;б;;;;INTJ;БЛЯ;INTJ
+42700;34;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42701;35;почему;ПОЧЕМУ;ADV -;;;у;м;е;ч;о;п;ADV;ПОЧЕМУ;CONJ
+42702;36;так;ТАК;ADV -;;;к;а;т;;;;ADV;ТАК;ADV -
+42703;37;странно;СТРАННО;ADV -;;;о;н;н;а;р;т;ADV;СТРАННО;ADV -
+42704;38;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42705;39;словно;СЛОВНО;CONJ;;;о;н;в;о;л;с;CONJ;СЛОВНО;CONJ
+42706;40;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p anim nom
+42707;41;ем;ЕСТЬ;V ipf praes sg indic - 1p;;;м;е;;;;;V;ЕСТЬ;V ipf praes sg indic - 1p
+42708;42;мозги;МОЗГИ;S - inan acc pl;;;и;г;з;о;м;;S;МОЗГИ;S - inan acc pl
+42709;43;?..;?..;PUNC;;;;;;;;;PUNC;?..;PUNC
+42710;44;Вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+42711;45;такие;ТАКОЙ;A - nom pl plen - -;;;е;и;к;а;т;;A;ТАКОЙ;APRO - nom pl plen - -
+42712;46;выходные;ВЫХОДНОЙ;S m inan nom pl;;;е;ы;н;д;о;х;S;ВЫХОДНОЙ;S m inan nom pl
+42713;47;.;.;SENT;;;;;;;;;SENT;.;SENT
+42714;;;;;;;;;;;;;;;
+42715;1;Эм;ЭМ;S n inan nonflex nonflex;;;м;э;;;;;S;ЭМ;S n inan nonflex nonflex
+42716;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42717;3;к;К;PR;;;к;;;;;;PR;К;PARENTH
+42718;4;сожалению;СОЖАЛЕНИЕ;S n inan dat sg;;;ю;и;н;е;л;а;S;СОЖАЛЕНИЕ;PARENTH
+42719;5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42720;6;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART
+42721;7;удалось;УДАТЬСЯ;V pf praet sg indic n -;;;ь;с;о;л;а;д;V;УДАТЬСЯ;V pf praet sg indic n -
+42722;8;много;МНОГО;ADV -;;;о;г;о;н;м;;ADV;МНОГО;ADV -
+42723;9;поспать;ПОСПАТЬ;V pf - - inf - -;;;ь;т;а;п;с;о;V;ПОСПАТЬ;V pf intr - inf - -
+42724;10;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42725;11;потому что;потому что;ZERO;;;о;т;ч; ;у;м;ZERO;потому что;ZERO
+42726;12;мы;МЫ;SPRO pl 1p - nom;;;ы;м;;;;;SPRO;МЫ;SPRO pl 1p anim nom
+42727;13;сидели;СИДЕТЬ;V ipf praet pl indic - -;;;и;л;е;д;и;с;V;СИДЕТЬ;V ipf praet pl indic - -
+42728;14;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+42729;15;переключали;ПЕРЕКЛЮЧАТЬ;V ipf praet pl indic - -;;;и;л;а;ч;ю;л;V;ПЕРЕКЛЮЧАТЬ;V ipf praet pl indic - -
+42730;16;каналы;КАНАЛ;S m inan nom pl;;;ы;л;а;н;а;к;S;КАНАЛ;S m inan nom pl
+42731;17;очень;ОЧЕНЬ;ADV -;;;ь;н;е;ч;о;;ADV;ОЧЕНЬ;ADV -
+42732;18;долго;ДОЛГО;ADV -;;;о;г;л;о;д;;ADV;ДОЛГО;ADV -
+42733;19;по;ПО;PR;;;о;п;;;;;PR;ПО;PR
+42734;20;телевизору;ТЕЛЕВИЗОР;S m inan dat sg;;;у;р;о;з;и;в;S;ТЕЛЕВИЗОР;S m inan dat sg
+42735;21;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42736;22;чтобы;ЧТОБЫ;CONJ;;;ы;б;о;т;ч;;CONJ;ЧТОБЫ;CONJ
+42737;23;найти;НАЙТИ;V pf - - inf - -;;;и;т;й;а;н;;V;НАЙТИ;V pf tran - inf - -
+42738;24;фильм;ФИЛЬМ;S m inan acc sg;;;м;ь;л;и;ф;;S;ФИЛЬМ;S m inan acc sg
+42739;25;.;.;SENT;;;;;;;;;SENT;.;SENT
+42740;;;;;;;;;;;;;;;
+42741;1;Мы;МЫ;SPRO pl 1p - nom;;;ы;м;;;;;SPRO;МЫ;SPRO pl 1p anim nom
+42742;2;посмотрели;ПОСМОТРЕТЬ;V pf praet pl indic - -;;;и;л;е;р;т;о;V;ПОСМОТРЕТЬ;V pf praet pl indic tran -
+42743;3;..;..;SENT;;;;;;;;;SENT;..;SENT
+42744;;;;;;;;;;;;;;;
+42745;1;Интервьюер;ИНТЕРВЬЮЕР;S m anim nom sg;;;р;е;ю;ь;в;р;S;ИНТЕРВЬЮЕР;S m anim nom sg
+42746;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+42747;3;Кто;КТО;S m - nom sg;;;о;т;к;;;;S;КТО;SPRO anim - nom sg
+42748;4;мы;МЫ;SPRO pl 1p - nom;;;ы;м;;;;;SPRO;МЫ;SPRO pl 1p anim nom
+42749;5;?;?;SENT;;;;;;;;;SENT;?;SENT
+42750;;;;;;;;;;;;;;;
+42751;1;Анфиса;АНФИСА;S f anim nom sg;;;а;с;и;ф;н;а;S;АНФИСА;S f anim nom sg
+42752;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+42753;3;Я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p anim nom
+42754;4;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+42755;5;мои..;МОЙ..;A - nom pl plen - -;;;;;и;о;м;;A;МОЙ..;APRO - nom pl plen - -
+42756;6;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p anim nom
+42757;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42758;8;подруга;ПОДРУГА;S f anim nom sg;;;а;г;у;р;д;о;S;ПОДРУГА;S f anim nom sg
+42759;9;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42760;10;еще;ЕЩЕ;ADV -;;;е;щ;е;;;;ADV;ЕЩЕ;ADV -
+42761;11;две;ДВА;NUM nom f -;;;е;в;д;;;;NUM;ДВА;NUM nom f -
+42762;12;ее;ЕЕ;A - nonflex nonflex plen - -;;;е;е;;;;;A;ЕЕ;APRO nom
+42763;13;знаком..;ЗНАКОМЫЙ..;A - - sg brev m -;;;;;м;о;к;а;A;ЗНАКОМЫЙ..;S anim nom pl f -
+42764;14;подруги;ПОДРУГА;S f anim nom pl;;;и;г;у;р;д;о;S;ПОДРУГА;S f anim nom pl
+42765;15;(;(;PUNC;;;;;;;;;PUNC;(;PUNC
+42766;16;?;?;PUNC;;;;;;;;;PUNC;?;PUNC
+42767;17;)..;)..;PUNC;;;;;;;;;PUNC;)..;PUNC
+42768;18;да;ДА;PART;;;а;д;;;;;PART;ДА;PART
+42769;19;.;.;SENT;;;;;;;;;SENT;.;SENT
+42770;;;;;;;;;;;;;;;
+42771;1;А;А;S - - nonflex nonflex;;;а;;;;;;S;А;PART
+42772;2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42773;3;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+42774;4;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+42775;5;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+42776;6;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+42777;7;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+42778;8;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42779;9;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+42780;10;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+42781;11;вапще;ВАПЩЕ;ADV -;distort;;е;щ;п;а;в;;ADV;ВАПЩЕ;ADV -
+42782;12;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42783;13;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+42784;14;";";";";SENT;;;;;;;;;SENT;";";SENT
+42785;;;;;;;;;;;;;;;
+42786;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42787;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+42788;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+42789;4;вообще;ВООБЩЕ;ADV -;;;е;щ;б;о;о;в;ADV;ВООБЩЕ;ADV -
+42790;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42791;6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+42792;7;";";";";SENT;;;;;;;;;SENT;";";SENT
+42793;;;;;;;;;;;;;;;
+42794;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+42795;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+42796;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42797;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+42798;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+42799;;;;;;;;;;;;;;;
+42800;1;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42801;2;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p anim nom
+42802;3;приехала;ПРИЕХАТЬ;V pf praet sg indic f -;;;а;л;а;х;е;и;V;ПРИЕХАТЬ;V pf praet sg indic f intr
+42803;4;туда;ТУДА;ADV -;;;а;д;у;т;;;ADV;ТУДА;ADV -
+42804;5;после;ПОСЛЕ;PR;;;е;л;с;о;п;;PR;ПОСЛЕ;PR
+42805;6;одного;ОДИН;A - gen sg plen m -;;;о;г;о;н;д;о;A;ОДИН;ANUM - gen sg plen m -
+42806;7;дня;ДЕНЬ;S m inan gen sg;;;я;н;д;;;;S;ДЕНЬ;S m inan gen sg
+42807;8;рождения;РОЖДЕНИЕ;S n inan gen sg;;;я;и;н;е;д;ж;S;РОЖДЕНИЕ;S n inan gen sg
+42808;9;.;.;SENT;;;;;;;;;SENT;.;SENT
+42809;;;;;;;;;;;;;;;
+42810;1;Ну;НУ;PART;;;у;н;;;;;PART;НУ;PART
+42811;2;день;ДЕНЬ;S m inan acc sg;;;ь;н;е;д;;;S;ДЕНЬ;S m inan nom sg
+42812;3;рождения;РОЖДЕНИЕ;S n inan gen sg;;;я;и;н;е;д;ж;S;РОЖДЕНИЕ;S n inan gen sg
+42813;4;был;БЫТЬ;V ipf praet sg indic m -;;;л;ы;б;;;;V;БЫТЬ;V ipf praet sg indic m intr
+42814;5;нормальный;НОРМАЛЬНЫЙ;A - nom sg plen m -;;;й;ы;н;ь;л;а;A;НОРМАЛЬНЫЙ;A - ins sg plen m -
+42815;6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42816;7;там;ТАМ;ADV -;;;м;а;т;;;;ADV;ТАМ;ADV -
+42817;8;все;ВСЕ;S - - nom pl;;;е;с;в;;;;S;ВСЕ;SPRO - - nom pl
+42818;9;были;БЫТЬ;V ipf praet pl indic - -;;;и;л;ы;б;;;V;БЫТЬ;V ipf praet pl indic intr -
+42819;10;в;В;PR;;;в;;;;;;PR;В;PR
+42820;11;розовой;РОЗОВЫЙ;A - loc sg plen f -;;;й;о;в;о;з;о;A;РОЗОВЫЙ;A - loc sg plen f -
+42821;12;одежде;ОДЕЖДА;S f inan loc sg;;;е;д;ж;е;д;о;S;ОДЕЖДА;S f inan loc sg
+42822;13;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42823;14;очень;ОЧЕНЬ;ADV -;;;ь;н;е;ч;о;;ADV;ОЧЕНЬ;ADV -
+42824;15;интересный;ИНТЕРЕСНЫЙ;A - nom sg plen m -;;;й;ы;н;с;е;р;A;ИНТЕРЕСНЫЙ;A - nom sg plen m -
+42825;16;дресс;ДРЕСС;S m inan acc sg;;;с;с;е;р;д;;S;ДРЕСС;S m inan nom sg
+42826;17;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+42827;18;код;КОД;S m inan nom sg;;;д;о;к;;;;S;КОД;S m inan nom sg
+42828;19;.;.;SENT;;;;;;;;;SENT;.;SENT
+42829;;;;;;;;;;;;;;;
+42830;1;Ээээ;ЭЭЭЭ;NONLEX;;;э;э;э;э;;;NONLEX;ЭЭЭЭ;INTJ
+42831;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42832;3;к;К;PR;;;к;;;;;;PR;К;PR
+42833;4;тому;ТОТ;A - dat sg plen m -;;;у;м;о;т;;;A;ТОТ;APRO - dat sg plen m -
+42834;5;моменту;МОМЕНТ;S m inan dat sg;;;у;т;н;е;м;о;S;МОМЕНТ;S m inan dat sg
+42835;6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42836;7;как;КАК;CONJ;;;к;а;к;;;;CONJ;КАК;CONJ
+42837;8;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p inam nom
+42838;9;оттуда;ОТТУДА;ADV -;;;а;д;у;т;т;о;ADV;ОТТУДА;ADV -
+42839;10;уехала;УЕХАТЬ;V pf praet sg indic f -;;;а;л;а;х;е;у;V;УЕХАТЬ;V pf praet sg indic f intr
+42840;11;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+42841;12;приехала;ПРИЕХАТЬ;V pf praet sg indic f -;;;а;л;а;х;е;и;V;ПРИЕХАТЬ;V pf praet sg indic f intr
+42842;13;к;К;PR;;;к;;;;;;PR;К;PR
+42843;14;подруге;ПОДРУГА;S f anim dat sg;;;е;г;у;р;д;о;S;ПОДРУГА;S f anim dat sg
+42844;15;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42845;16;мне;Я;SPRO sg 1p - loc;;;е;н;м;;;;SPRO;Я;SPRO sg 1p inam dat
+42846;17;позвонил;ПОЗВОНИТЬ;V pf praet sg indic m -;;;л;и;н;о;в;з;V;ПОЗВОНИТЬ;V pf praet sg indic m intr
+42847;18;кто-то;КТО-ТО;S m - nom sg;;;о;т;;о;т;к;S;КТО-ТО;SPRO - inam nom sg
+42848;19;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+42849;20;сказали;СКАЗАТЬ;V pf praet pl indic - -;;;и;л;а;з;а;к;V;СКАЗАТЬ;V pf praet pl indic tran -
+42850;21;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42851;22;что;ЧТО;CONJ;;;о;т;ч;;;;CONJ;ЧТО;CONJ
+42852;23;соседка;СОСЕДКА;S f anim nom sg;;;а;к;д;е;с;о;S;СОСЕДКА;S f anim nom sg
+42853;24;снизу;СНИЗУ;ADV -;;;у;з;и;н;с;;ADV;СНИЗУ;ADV -
+42854;25;вызвала;ВЫЗВАТЬ;V pf praet sg indic f -;;;а;л;а;в;з;ы;V;ВЫЗВАТЬ;V pf praet sg indic f tran
+42855;26;ментов;МЕНТ;S m anim acc pl;;;в;о;т;н;е;м;S;МЕНТ;S m anim acc pl
+42856;27;.;.;SENT;;;;;;;;;SENT;.;SENT
+42857;;;;;;;;;;;;;;;
+42858;1;Вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+42859;2;такие;ТАКОЙ;A - nom pl plen - -;;;е;и;к;а;т;;A;ТАКОЙ;A - nom pl plen - -
+42860;3;де..;ДЕ..;PART;;;;;е;д;;;PART;ДЕЛО;S n inan nom pl
+42861;4;дела;ДЕЛО;S n inan nom pl;;;а;л;е;д;;;S;ДЕЛО;S n inan nom pl
+42862;5;на;НА;PR;;;а;н;;;;;PR;НА;PR
+42863;6;дне;ДНО;S n inan loc sg;;;е;н;д;;;;S;ДНО;S n inan loc sg
+42864;7;рождениии;РОЖДЕНИИИ;S - inan acc pl;;;и;и;и;н;е;д;S;РОЖДЕНИЕ;S n inan acc pl
+42865;8;девочки;ДЕВОЧКА;S f anim gen sg;;;и;к;ч;о;в;е;S;ДЕВОЧКА;S f anim gen sg
+42866;9;семнадцати;СЕМНАДЦАТЬ;NUM loc - -;;;и;т;а;ц;д;а;NUM;СЕМНАДЦАТЬ;NUM loc - -
+42867;10;лет..;ГОД..;S m inan gen sg;;;;;т;е;л;;S;ГОД..;S m inan gen sg
+42868;11;были;БЫТЬ;V ipf praet pl indic - -;;;и;л;ы;б;;;V;БЫТЬ;V ipf praet pl indic intr -
+42869;12;.;.;SENT;;;;;;;;;SENT;.;SENT
+42870;;;;;;;;;;;;;;;
+42871;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42872;2;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+42873;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+42874;4;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+42875;5;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+42876;6;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+42877;7;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42878;8;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+42879;9;";";";";SENT;;;;;;;;;SENT;";";SENT
+42880;;;;;;;;;;;;;;;
+42881;1;Вооот;ВОООТ;S n inan nonflex nonflex;;;т;о;о;о;в;;S;ВОООТ;PART
+42882;2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42883;3;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+42884;4;";";";";SENT;;;;;;;;;SENT;";";SENT
+42885;;;;;;;;;;;;;;;
+42886;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42887;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+42888;3;";";";";SENT;;;;;;;;;SENT;";";SENT
+42889;;;;;;;;;;;;;;;
+42890;1;Вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+42891;2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42892;3;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+42893;4;";";";";SENT;;;;;;;;;SENT;";";SENT
+42894;;;;;;;;;;;;;;;
+42895;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+42896;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+42897;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+42898;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+42899;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+42900;;;;;;;;;;;;;;;
+42901;1;..;..;PUNC;;;;;;;;;PUNC;..;PUNC
+42902;2;Что;ЧТО;CONJ;;;о;т;ч;;;;CONJ;ЧТО;SPRO inan nom sg -
+42903;3;еще;ЕЩЕ;ADV -;;;е;щ;е;;;;ADV;ЕЩЕ;ADV -
+42904;4;вчера..;ВЧЕРА..;ADV -;;;;;а;р;е;ч;ADV;ВЧЕРА..;ADV -
+42905;5;Ну;НУ;PART;;;у;н;;;;;PART;НУ;PART
+42906;6;мы;МЫ;SPRO pl 1p - nom;;;ы;м;;;;;SPRO;МЫ;SPRO pl 1p anim nom
+42907;7;ходили;ХОДИТЬ;V ipf praet pl indic - -;;;и;л;и;д;о;х;V;ХОДИТЬ;V ipf praet pl indic intr -
+42908;8;три;ТРИ;NUM nom - -;;;и;р;т;;;;NUM;ТРИ;NUM nom - -
+42909;9;раза;РАЗ;S m inan gen sg;;;а;з;а;р;;;S;РАЗ;S m inan gen sg
+42910;10;в;В;PR;;;в;;;;;;PR;В;PR
+42911;11;магазин;МАГАЗИН;S m inan acc sg;;;н;и;з;а;г;а;S;МАГАЗИН;S m inan acc sg
+42912;12;за;ЗА;PR;;;а;з;;;;;PR;ЗА;PR
+42913;13;едой;ЕДА;S f inan ins sg;;;й;о;д;е;;;S;ЕДА;S f inan ins sg
+42914;14;.;.;SENT;;;;;;;;;SENT;.;SENT
+42915;;;;;;;;;;;;;;;
+42916;1;Вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+42917;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42918;3;сначала;СНАЧАЛА;ADV -;;;а;л;а;ч;а;н;ADV;СНАЧАЛА;ADV -
+42919;4;мы;МЫ;SPRO pl 1p - nom;;;ы;м;;;;;SPRO;МЫ;SPRO pl 1p anim nom
+42920;5;купили;КУПИТЬ;V pf praet pl indic - -;;;и;л;и;п;у;к;V;КУПИТЬ;V pf praet pl indic tran -
+42921;6;мороженое;МОРОЖЕНОЕ;S n inan acc sg;;;е;о;н;е;ж;о;S;МОРОЖЕНОЕ;S n inan acc sg
+42922;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42923;8;собственно;СОБСТВЕННО;ADV -;;;о;н;н;е;в;т;ADV;СОБСТВЕННО;PRAEDIC
+42924;9;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42925;10;наверно;НАВЕРНО;ADV -;;;о;н;р;е;в;а;ADV;НАВЕРНО;PARENTH
+42926;11;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42927;12;поэтому;ПОЭТОМУ;ADV -;;;у;м;о;т;э;о;ADV;ПОЭТОМУ;CONJ
+42928;13;у;У;PR;;;у;;;;;;PR;У;PR
+42929;14;меня;Я;SPRO sg 1p - acc;;;я;н;е;м;;;SPRO;Я;SPRO sg 1p anim gen
+42930;15;сейчас;СЕЙЧАС;ADV -;;;с;а;ч;й;е;с;ADV;СЕЙЧАС;ADV -
+42931;16;горло;ГОРЛО;S n inan acc sg;;;о;л;р;о;г;;S;ГОРЛО;S n inan nom sg
+42932;17;болит;БОЛЕТЬ;V ipf praes sg indic - 3p;;;т;и;л;о;б;;V;БОЛЕТЬ;V ipf praes sg indic intr 3p
+42933;18;.;.;SENT;;;;;;;;;SENT;.;SENT
+42934;;;;;;;;;;;;;;;
+42935;1;Потом;ПОТОМ;ADV -;;;м;о;т;о;п;;ADV;ПОТОМ;ADV -
+42936;2;мы;МЫ;SPRO pl 1p - nom;;;ы;м;;;;;SPRO;МЫ;SPRO pl 1p anim nom
+42937;3;сходили;СХОДИТЬ;V ipf praet pl indic - -;;;и;л;и;д;о;х;V;СХОДИТЬ;V ipf praet pl indic intr -
+42938;4;за;ЗА;PR;;;а;з;;;;;PR;ЗА;PR
+42939;5;замороженной;ЗАМОРОЗИТЬ;PARTCP pf praet loc sg plen f pass -;;;й;о;н;н;е;ж;PARTCP;ЗАМОРОЗИТЬ;PARTCP pf praet loc sg plen f pass -
+42940;6;лазаньей;ЛАЗАНИЙ;A - loc sg plen f -;;;й;е;ь;н;а;з;A;ЛАЗАНИЙ;A - loc sg plen f -
+42941;7;.;.;SENT;;;;;;;;;SENT;.;SENT
+42942;;;;;;;;;;;;;;;
+42943;1;В;В;PR;;;в;;;;;;PR;В;PARENTH
+42944;2;принципе;ПРИНЦИП;S m inan loc sg;;;е;п;и;ц;н;и;S;ПРИНЦИП;PARENTH
+42945;3;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42946;4;все;ВСЕ;S - - nom pl;;;е;с;в;;;;S;ВСЕ;SPRO - - nom pl
+42947;5;еще;ЕЩЕ;ADV -;;;е;щ;е;;;;ADV;ЕЩЕ;ADV -
+42948;6;бы;БЫ;PART;;;ы;б;;;;;PART;БЫ;PART
+42949;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42950;8;сейчас;СЕЙЧАС;ADV -;;;с;а;ч;й;е;с;ADV;СЕЙЧАС;ADV -
+42951;9;поела;ПОЕСТЬ;V pf praet sg indic f -;;;а;л;е;о;п;;V;ПОЕСТЬ;V pf praet sg indic f tran
+42952;10;замороженную;ЗАМОРОЗИТЬ;PARTCP pf praet acc sg plen f pass -;;;ю;у;н;н;е;ж;PARTCP;ЗАМОРОЗИТЬ;PARTCP pf praet acc sg plen f pass -
+42953;11;лазанью;ЛАЗАНЬЕ;S n inan dat sg;;;ю;ь;н;а;з;а;S;ЛАЗАНЬЯ;S n inan acc sg
+42954;12;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42955;13;очень;ОЧЕНЬ;ADV -;;;ь;н;е;ч;о;;ADV;ОЧЕНЬ;ADV -
+42956;14;вкусная;ВКУСНЫЙ;A - nom sg plen f -;;;я;а;н;с;у;к;A;ВКУСНЫЙ;A - nom sg plen f -
+42957;15;вещь;ВЕЩЬ;S f inan nom sg;;;ь;щ;е;в;;;S;ВЕЩЬ;S f inan nom sg
+42958;16;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+42959;17;очень;ОЧЕНЬ;ADV -;;;ь;н;е;ч;о;;ADV;ОЧЕНЬ;ADV -
+42960;18;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+42961;19;очень;ОЧЕНЬ;ADV -;;;ь;н;е;ч;о;;ADV;ОЧЕНЬ;ADV -
+42962;20;советую;СОВЕТОВАТЬ;V ipf praes sg indic - 1p;;;ю;у;т;е;в;о;V;СОВЕТОВАТЬ;V ipf praes sg indic tran 1p
+42963;21;всем;ВСЕ;S - - dat pl;;;м;е;с;в;;;S;ВСЕ;SPRO anim - dat pl
+42964;22;.;.;SENT;;;;;;;;;SENT;.;SENT
+42965;;;;;;;;;;;;;;;
+42966;1;Ну;НУ;PART;;;у;н;;;;;PART;НУ;PART
+42967;2;или;ИЛИ;CONJ;;;и;л;и;;;;CONJ;ИЛИ;CONJ
+42968;3;лучше;ХОРОШО;ADV comp;;;е;ш;ч;у;л;;ADV;ХОРОШО;ADV comp
+42969;4;самим;САМ;A - ins sg plen m -;;;м;и;м;а;с;;A;САМ;APRO - ins sg plen m -
+42970;5;делать..;ДЕЛАТЬ..;V ipf - - inf - -;;;;;ь;т;а;л;V;ДЕЛАТЬ..;V ipf - - inf tran -
+42971;6;такое;ТАКОЙ;A - nom sg plen n -;;;е;о;к;а;т;;A;ТАКОЙ;A - nom sg plen n -
+42972;7;.;.;SENT;;;;;;;;;SENT;.;SENT
+42973;;;;;;;;;;;;;;;
+42974;1;Что;ЧТО;CONJ;;;о;т;ч;;;;CONJ;ЧТО;CONJ
+42975;2;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p anim nom
+42976;3;еще;ЕЩЕ;ADV -;;;е;щ;е;;;;ADV;ЕЩЕ;ADV -
+42977;4;делала;ДЕЛАТЬ;V ipf praet sg indic f -;;;а;л;а;л;е;д;V;ДЕЛАТЬ;V ipf praet sg indic f tran
+42978;5;..;..;SENT;;;;;;;;;SENT;..;SENT
+42979;;;;;;;;;;;;;;;
+42980;1;Интервьюер;ИНТЕРВЬЮЕР;S m inan nom sg;;;р;е;ю;ь;в;р;S;ИНТЕРВЬЮЕР;S m anim nom sg
+42981;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+42982;3;[;[;PUNC;;;;;;;;;PUNC;[;PUNC
+42983;4;нрзб;НРЗБ;NONLEX;;;б;з;р;н;;;NONLEX;НРЗБ;NONLEX
+42984;5;];];PUNC;;;;;;;;;PUNC;];PUNC
+42985;6;.;.;SENT;;;;;;;;;SENT;.;SENT
+42986;;;;;;;;;;;;;;;
+42987;1;Анфиса;АНФИСА;S f anim nom sg;;;а;с;и;ф;н;а;S;АНФИСА;S f anim nom sg
+42988;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+42989;3;Ну;НУ;PART;;;у;н;;;;;PART;НУ;PART
+42990;4;это;ЭТО;S n - nom sg;;;о;т;э;;;;S;ЭТО;SPRO n - nom sg
+42991;5;да;ДА;PART;;;а;д;;;;;PART;ДА;PART
+42992;6;.;.;SENT;;;;;;;;;SENT;.;SENT
+42993;;;;;;;;;;;;;;;
+42994;1;Ну;НУ;PART;;;у;н;;;;;PART;НУ;PART
+42995;2;можно;МОЖНО;ADV -;;;о;н;ж;о;м;;ADV;МОЖНО;PRAEDIC
+42996;3;посмотреть;ПОСМОТРЕТЬ;V pf - - inf - -;;;ь;т;е;р;т;о;V;ПОСМОТРЕТЬ;V pf - - inf tran -
+42997;4;видео;ВИДЕО;S n inan nonflex nonflex;;;о;е;д;и;в;;S;ВИДЕО;S n inan pl acc
+42998;5;в;В;PR;;;в;;;;;;PR;В;PR
+42999;6;ютьюбе;ЮТЬЮБЕ;ADV -;;;е;б;ю;ь;т;ю;ADV;ЮТЬЮБЕ;S inan m loc sg
+43000;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43001;8;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+43002;9;тебя;ТЫ;SPRO sg 2p - acc;;;я;б;е;т;;;SPRO;ТЫ;SPRO sg 2p - acc
+43003;10;научат;НАУЧИТЬ;V pf fut pl indic - 3p;;;т;а;ч;у;а;н;V;НАУЧИТЬ;V pf fut pl indic intr 3p
+43004;11;готовить..;ГОТОВИТЬ..;V ipf - - inf - -;;;;;ь;т;и;в;V;ГОТОВИТЬ..;V ipf - - inf tran -
+43005;12;высшие;ВЫСШИЙ;A supr nom pl plen - -;;;е;и;ш;с;ы;в;A;ВЫСШИЙ;A supr nom pl plen - -
+43006;13;силы;СИЛА;S f inan nom pl;;;ы;л;и;с;;;S;СИЛА;S f inan nom pl
+43007;14;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43008;15;надеюсь;НАДЕЯТЬСЯ;V ipf praes sg indic - 1p;;;ь;с;ю;е;д;а;V;НАДЕЯТЬСЯ;V ipf praes sg indic intr 1p
+43009;16;.;.;SENT;;;;;;;;;SENT;.;SENT
+43010;;;;;;;;;;;;;;;
+43011;1;Эээ;ЭЭЭ;NONLEX;;;э;э;э;;;;NONLEX;ЭЭЭ;INTJ
+43012;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43013;3;что;ЧТО;CONJ;;;о;т;ч;;;;CONJ;ЧТО;CONJ
+43014;4;еще;ЕЩЕ;ADV -;;;е;щ;е;;;;ADV;ЕЩЕ;ADV -
+43015;5;делала...;ДЕЛАТЬ...;V ipf praet sg indic f -;;;;;;а;л;а;V;ДЕЛАТЬ...;V ipf praet sg indic f tran
+43016;6;ооой...;ОООЙ...;S m inan nonflex nonflex;;;;;;й;о;о;S;ОООЙ...;INTJ
+43017;7;ну;НУ;PART;;;у;н;;;;;PART;НУ;PART
+43018;8;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p anim nom
+43019;9;особо;ОСОБО;ADV -;;;о;б;о;с;о;;ADV;ОСОБО;ADV -
+43020;10;ничего;НИЧТО;S n - gen sg;;;о;г;е;ч;и;н;S;НИЧТО;SPRO n - gen sg
+43021;11;интересного;ИНТЕРЕСНЫЙ;A - gen sg plen n -;;;о;г;о;н;с;е;A;ИНТЕРЕСНЫЙ;A - gen sg plen n -
+43022;12;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART
+43023;13;делала;ДЕЛАТЬ;V ipf praet sg indic f -;;;а;л;а;л;е;д;V;ДЕЛАТЬ;V ipf praet sg indic f tran
+43024;14;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43025;15;ну;НУ;PART;;;у;н;;;;;PART;НУ;PART
+43026;16;так;ТАК;ADV -;;;к;а;т;;;;ADV;ТАК;ADV -
+43027;17;.;.;SENT;;;;;;;;;SENT;.;SENT
+43028;;;;;;;;;;;;;;;
+43029;1;Интервьюер;ИНТЕРВЬЮЕР;S m anim nom sg;;;р;е;ю;ь;в;р;S;ИНТЕРВЬЮЕР;S m anim nom sg
+43030;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+43031;3;А;А;S - - nonflex nonflex;;;а;;;;;;S;А;PART
+43032;4;как;КАК;CONJ;;;к;а;к;;;;CONJ;КАК;CONJ
+43033;5;рабочая;РАБОЧИЙ;A - nom sg plen f -;;;я;а;ч;о;б;а;A;РАБОЧИЙ;A - nom sg plen f -
+43034;6;неделя;НЕДЕЛЯ;S f inan nom sg;;;я;л;е;д;е;н;S;НЕДЕЛЯ;S f inan nom sg
+43035;7;прошла;ПРОШЛЫЙ;A - - sg brev f -;;;а;л;ш;о;р;п;A;ПРОЙТИ;V pf praet sg indic f intr
+43036;8;?;?;SENT;;;;;;;;;SENT;?;SENT
+43037;;;;;;;;;;;;;;;
+43038;1;Анфиса;АНФИСА;S f anim nom sg;;;а;с;и;ф;н;а;S;АНФИСА;S f anim nom sg
+43039;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+43040;3;Ой;ОЙ;INTJ;;;й;о;;;;;INTJ;ОЙ;INTJ
+43041;4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43042;5;рабочая;РАБОЧИЙ;A - nom sg plen f -;;;я;а;ч;о;б;а;A;РАБОЧИЙ;A - nom sg plen f -
+43043;6;неделя;НЕДЕЛЯ;S f inan nom sg;;;я;л;е;д;е;н;S;НЕДЕЛЯ;S f inan nom sg
+43044;7;прошла;ПРОШЛЫЙ;A - - sg brev f -;;;а;л;ш;о;р;п;A;ПРОЙТИ;V pf praet sg indic f intr
+43045;8;неплохо;НЕПЛОХО;ADV -;;;о;х;о;л;п;е;ADV;НЕПЛОХО;ADV -
+43046;9;.;.;SENT;;;;;;;;;SENT;.;SENT
+43047;;;;;;;;;;;;;;;
+43048;1;Я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+43049;2;заработала;ЗАРАБОТАТЬ;V pf praet sg indic f -;;;а;л;а;т;о;б;V;ЗАРАБОТАТЬ;V pf praet sg indic f tran
+43050;3;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART
+43051;4;так;ТАК;ADV -;;;к;а;т;;;;ADV;ТАК;ADV -
+43052;5;много;МНОГО;ADV -;;;о;г;о;н;м;;ADV;МНОГО;ADV -
+43053;6;денег;ДЕНЬГИ;S - inan gen pl;;;г;е;н;е;д;;S;ДЕНЬГИ;S - inan gen pl
+43054;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43055;8;как;КАК;CONJ;;;к;а;к;;;;CONJ;КАК;CONJ
+43056;9;планировалось;ПЛАНИРОВАТЬСЯ;V ipf praet sg indic n -;;;ь;с;о;л;а;в;V;ПЛАНИРОВАТЬСЯ;V ipf praet sg indic n tran
+43057;10;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43058;11;эээ;ЭЭЭ;NONLEX;;;э;э;э;;;;NONLEX;ЭЭЭ;NONLEX
+43059;12;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43060;13;потому что;потому что;ZERO;;;о;т;ч; ;у;м;ZERO;потому что;CONJ
+43061;14;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p anim nom
+43062;15;скинула;СКИНУТЬ;V pf praet sg indic f -;;;а;л;у;н;и;к;V;СКИНУТЬ;V pf praet sg indic f tran
+43063;16;тысячу;ТЫСЯЧА;S f inan acc sg;;;у;ч;я;с;ы;т;S;ТЫСЯЧА;S f inan acc sg
+43064;17;на;НА;PR;;;а;н;;;;;PR;НА;PR
+43065;18;день;ДЕНЬ;S m inan acc sg;;;ь;н;е;д;;;S;ДЕНЬ;S m inan acc sg
+43066;19;рождения;РОЖДЕНИЕ;S n inan gen sg;;;я;и;н;е;д;ж;S;РОЖДЕНИЕ;S n inan gen sg
+43067;20;на;НА;PR;;;а;н;;;;;PR;НА;PR
+43068;21;подарок;ПОДАРОК;S m inan acc sg;;;к;о;р;а;д;о;S;ПОДАРОК;S m inan acc sg
+43069;22;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43070;23;ну;НУ;PART;;;у;н;;;;;PART;НУ;PART
+43071;24;это;ЭТО;S n - nom sg;;;о;т;э;;;;S;ЭТО;SPRO inan nom sg
+43072;25;хорошо;ХОРОШО;ADV -;;;о;ш;о;р;о;х;ADV;ХОРОШО;ADV -
+43073;26;.;.;SENT;;;;;;;;;SENT;.;SENT
+43074;;;;;;;;;;;;;;;
+43075;1;Ааа;ААА;S m inan nonflex nonflex;;;а;а;а;;;;S;ААА;INTJ
+43076;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43077;3;потом;ПОТОМ;ADV -;;;м;о;т;о;п;;ADV;ПОТОМ;ADV -
+43078;4;один;ОДИН;A - nom sg plen m -;;;н;и;д;о;;;A;ОДИН;APRO - nom sg plen m -
+43079;5;урок;УРОК;S m inan nom sg;;;к;о;р;у;;;S;УРОК;S m inan nom sg
+43080;6;просто;ПРОСТО;ADV -;;;о;т;с;о;р;п;ADV;ПРОСТО;ADV -
+43081;7;отменился;ОТМЕНИТЬСЯ;V pf praet sg indic m -;;;я;с;л;и;н;е;V;ОТМЕНИТЬСЯ;V pf praet sg indic m -intr
+43082;8;.;.;SENT;;;;;;;;;SENT;.;SENT
+43083;;;;;;;;;;;;;;;
+43084;1;Интервьюер;ИНТЕРВЬЮЕР;S m anim nom sg;;;р;е;ю;ь;в;р;S;ИНТЕРВЬЮЕР;S m anim nom sg
+43085;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+43086;3;Расскажи;РАССКАЗАТЬ;V pf - sg imper - 2p;;;и;ж;а;к;с;с;V;РАССКАЗАТЬ;V pf - sg imper tran 2p
+43087;4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43088;5;кем;КТО;S m - ins sg;;;м;е;к;;;;S;КТО;SPRO anim - ins sg
+43089;6;ты;ТЫ;SPRO sg 2p - nom;;;ы;т;;;;;SPRO;ТЫ;SPRO sg 2p anim nom
+43090;7;работаешь;РАБОТАТЬ;V ipf praes sg indic - 2p;;;ь;ш;е;а;т;о;V;РАБОТАТЬ;V ipf praes sg indic intr 2p
+43091;8;.;.;SENT;;;;;;;;;SENT;.;SENT
+43092;;;;;;;;;;;;;;;
+43093;1;Анфиса;АНФИСА;S f anim nom sg;;;а;с;и;ф;н;а;S;АНФИСА;S f anim nom sg
+43094;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+43095;3;Я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p anim nom
+43096;4;работаю;РАБОТАТЬ;V ipf praes sg indic - 1p;;;ю;а;т;о;б;а;V;РАБОТАТЬ;V ipf praes sg indic intr 1p
+43097;5;репетитором;РЕПЕТИТОР;S m anim ins sg;;;м;о;р;о;т;и;S;РЕПЕТИТОР;S m anim ins sg
+43098;6;по;ПО;PR;;;о;п;;;;;PR;ПО;PR
+43099;7;английскому;АНГЛИЙСКИЙ;A - dat sg plen m -;;;у;м;о;к;с;й;A;АНГЛИЙСКИЙ;A - dat sg plen m -
+43100;8;языку;ЯЗЫК;S m inan dat sg;;;у;к;ы;з;я;;S;ЯЗЫК;S m inan dat sg
+43101;9;.;.;SENT;;;;;;;;;SENT;.;SENT
+43102;;;;;;;;;;;;;;;
+43103;1;Преподаю;ПРЕПОДАВАТЬ;V ipf praes sg indic - 1p;;;ю;а;д;о;п;е;V;ПРЕПОДАВАТЬ;V ipf praes sg indic tran 1p
+43104;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43105;3;на;НА;PR;;;а;н;;;;;PR;НА;PR
+43106;4;данный;ДАННЫЙ;A - acc sg plen m inan;;;й;ы;н;н;а;д;A;ДАННЫЙ;A - acc sg plen m inan
+43107;5;момент;МОМЕНТ;S m inan acc sg;;;т;н;е;м;о;м;S;МОМЕНТ;S m inan acc sg
+43108;6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43109;7;всяким;ВСЯКИЙ;A - dat pl plen - -;;;м;и;к;я;с;в;A;ВСЯКИЙ;A - dat pl plen - -
+43110;8;девятым;ДЕВЯТЫЙ;A - ins sg plen m -;;;м;ы;т;я;в;е;A;ДЕВЯТЫЙ;A - dat sg plen m -
+43111;9;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+43112;10;одиннадцатым;ОДИННАДЦАТЫЙ;A - dat pl plen - -;;;м;ы;т;а;ц;д;A;ОДИННАДЦАТЫЙ;A - dat pl plen - -
+43113;11;классам;КЛАСС;S m inan dat pl;;;м;а;с;с;а;л;S;КЛАСС;S m inan dat pl
+43114;12;.;.;SENT;;;;;;;;;SENT;.;SENT
+43115;;;;;;;;;;;;;;;
+43116;1;Вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+43117;2;в;В;PR;;;в;;;;;;PR;В;PR
+43118;3;прошлом;ПРОШЛЫЙ;A - loc sg plen m -;;;м;о;л;ш;о;р;A;ПРОШЛЫЙ;A - loc sg plen m -
+43119;4;году;ГОД;S m inan loc2 sg;;;у;д;о;г;;;S;ГОД;S m inan loc2 sg
+43120;5;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p anim nom
+43121;6;вела;ВЕСТИ;V ipf praet sg indic f -;;;а;л;е;в;;;V;ВЕСТИ;V ipf praet sg indic f tran
+43122;7;девочку;ДЕВОЧКА;S f anim acc sg;;;у;к;ч;о;в;е;S;ДЕВОЧКА;S f anim acc sg
+43123;8;девяти;ДЕВЯТЬ;NUM loc - -;;;и;т;я;в;е;д;NUM;ДЕВЯТЬ;NUM loc - -
+43124;9;лет;ГОД;S m inan gen pl;;;т;е;л;;;;S;ГОД;S m inan gen pl
+43125;10;.;.;SENT;;;;;;;;;SENT;.;SENT
+43126;;;;;;;;;;;;;;;
+43127;1;И;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+43128;2;она;ОНА;SPRO sg 3p f nom;;;а;н;о;;;;SPRO;ОНА;SPRO sg 3p f nom
+43129;3;всегда;ВСЕГДА;ADV -;;;а;д;г;е;с;в;ADV;ВСЕГДА;ADV -
+43130;4;спрашивала;СПРАШИВАТЬ;V ipf praet sg indic f -;;;а;л;а;в;и;ш;V;СПРАШИВАТЬ;V ipf praet sg indic f tran
+43131;5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43132;6;почему;ПОЧЕМУ;ADV -;;;у;м;е;ч;о;п;ADV;ПОЧЕМУ;CONJ
+43133;7;у;У;PR;;;у;;;;;;PR;У;PR
+43134;8;меня;Я;SPRO sg 1p - acc;;;я;н;е;м;;;SPRO;Я;SPRO sg 1p anim gen
+43135;9;нет;НЕТ;ADV -;;;т;е;н;;;;ADV;НЕТ;ADV -
+43136;10;мужа;МУЖ;S m anim gen sg;;;а;ж;у;м;;;S;МУЖ;S m anim gen sg
+43137;11;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43138;12;есть;БЫТЬ;V ipf praes sg indic - 3p;;;ь;т;с;е;;;V;БЫТЬ;V ipf praes sg indic - 3p
+43139;13;ли;ЛИ;PART;;;и;л;;;;;PART;ЛИ;PART
+43140;14;у;У;PR;;;у;;;;;;PR;У;PR
+43141;15;меня;Я;SPRO sg 1p - acc;;;я;н;е;м;;;SPRO;Я;SPRO sg 1p anim gen
+43142;16;дети;РЕБЕНОК;S m anim nom pl;;;и;т;е;д;;;S;РЕБЕНОК;S m anim nom pl
+43143;17;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43144;18;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+43145;19;говорила;ГОВОРИТЬ;V ipf praet sg indic f -;;;а;л;и;р;о;в;V;ГОВОРИТЬ;V ipf praet sg indic f -
+43146;20;:;:;PUNC;;;;;;;;;PUNC;:;PUNC
+43147;21;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+43148;22;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+43149;23;";";";";SENT;;;;;;;;;SENT;";";SENT
+43150;;;;;;;;;;;;;;;
+43151;1;Даже;ДАЖЕ;PART;;;е;ж;а;д;;;PART;ДАЖЕ;PART
+43152;2;у;У;PR;;;у;;;;;;PR;У;PR
+43153;3;меня;Я;SPRO sg 1p - acc;;;я;н;е;м;;;SPRO;Я;SPRO sg 1p anim acc
+43154;4;есть;БЫТЬ;V ipf praes sg indic - 3p;;;ь;т;с;е;;;V;БЫТЬ;V ipf praes sg indic - 3p
+43155;5;парень...;ПАРЕНЬ...;S m anim dat sg;;;;;;ь;н;е;S;ПАРЕНЬ...;S m anim acc sg
+43156;6;Анфиса;АНФИСА;S f anim nom sg;;;а;с;и;ф;н;а;S;АНФИСА;S f anim nom sg
+43157;7;Андреевна;АНДРЕЕВНА;S f anim nom sg;;;а;н;в;е;е;р;S;АНДРЕЕВНА;S f anim nom sg
+43158;8;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43159;9;почему;ПОЧЕМУ;ADV -;;;у;м;е;ч;о;п;ADV;ПОЧЕМУ;ADV -
+43160;10;у;У;PR;;;у;;;;;;PR;У;PR
+43161;11;вас;ВЫ;SPRO pl 2p - loc;;;с;а;в;;;;SPRO;ВЫ;SPRO pl 2p - loc
+43162;12;нет;НЕТ;ADV -;;;т;е;н;;;;ADV;НЕТ;ADV -
+43163;13;мужа;МУЖ;S m anim gen sg;;;а;ж;у;м;;;S;МУЖ;S m anim gen sg
+43164;14;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43165;15;вам;ВЫ;SPRO pl 2p - dat;;;м;а;в;;;;SPRO;ВЫ;SPRO pl 2p - dat
+43166;16;же;ЖЕ;PART;;;е;ж;;;;;PART;ЖЕ;PART
+43167;17;семнадцать;СЕМНАДЦАТЬ;NUM acc - -;;;ь;т;а;ц;д;а;NUM;СЕМНАДЦАТЬ;NUM acc - -
+43168;18;лет;ГОД;S m inan gen pl;;;т;е;л;;;;S;ГОД;S m inan gen pl
+43169;19;?;?;PUNC;;;;;;;;;PUNC;?;PUNC
+43170;20;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+43171;21;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+43172;22;";";";";SENT;;;;;;;;;SENT;";";SENT
+43173;;;;;;;;;;;;;;;
+43174;1;И;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+43175;2;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p anim nom
+43176;3;такая;ТАКОЙ;A - nom sg plen f -;;;я;а;к;а;т;;A;ТАКОЙ;APRO - nom sg plen f -
+43177;4;:;:;PUNC;;;;;;;;;PUNC;:;PUNC
+43178;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+43179;6;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+43180;7;";";";";SENT;;;;;;;;;SENT;";";SENT
+43181;;;;;;;;;;;;;;;
+43182;1;Юлечка;ЮЛЕЧКА;S m anim nom sg;;;а;к;ч;е;л;ю;S;ЮЛЕЧКА;S m anim nom sg
+43183;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43184;3;учим;УЧИТЬ;V ipf praes pl indic - 1p;;;м;и;ч;у;;;V;УЧИТЬ;V ipf praes pl indic - 1p
+43185;4;Present;PRESENT;NONLEX;;;;;;;;;NONLEX;PRESENT;NONLEX
+43186;5;Simple;SIMPLE;NONLEX;;;;;;;;;NONLEX;SIMPLE;NONLEX
+43187;6;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+43188;7;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+43189;8;";";";";SENT;;;;;;;;;SENT;";";SENT
+43190;;;;;;;;;;;;;;;
+43191;1;.;.;SENT;;;;;;;;;SENT;.;SENT
+43192;2;.;.;SENT;;;;;;;;;SENT;.;SENT
+43193;;;;;;;;;;;;;;;
+43194;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+43195;2;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+43196;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+43197;4;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+43198;5;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+43199;6;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+43200;7;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+43201;8;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+43202;9;";";";";SENT;;;;;;;;;SENT;";";SENT
+43203;;;;;;;;;;;;;;;
+43204;1;Вооот;ВОООТ;S n inan nonflex nonflex;;;т;о;о;о;в;;S;ВОООТ;PART
+43205;2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+43206;3;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+43207;4;";";";";SENT;;;;;;;;;SENT;";";SENT
+43208;;;;;;;;;;;;;;;
+43209;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+43210;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+43211;3;";";";";SENT;;;;;;;;;SENT;";";SENT
+43212;;;;;;;;;;;;;;;
+43213;1;Вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+43214;2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+43215;3;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+43216;4;";";";";SENT;;;;;;;;;SENT;";";SENT
+43217;;;;;;;;;;;;;;;
+43218;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+43219;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+43220;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+43221;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+43222;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+43223;;;;;;;;;;;;;;;
+43224;1;Эээ;ЭЭЭ;NONLEX;;;э;э;э;;;;NONLEX;ЭЭЭ;INTJ
+43225;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43226;3;еще;ЕЩЕ;ADV -;;;е;щ;е;;;;ADV;ЕЩЕ;ADV -
+43227;4;вчера;ВЧЕРА;ADV -;;;а;р;е;ч;в;;ADV;ВЧЕРА;ADV -
+43228;5;отвела;ОТВЕСТИ;V pf praet sg indic f -;;;а;л;е;в;т;о;V;ОТВЕСТИ;V pf praet sg indic f tran
+43229;6;свою;СВОЙ;A - acc sg plen f -;;;ю;о;в;с;;;A;СВОЙ;APRO - acc sg plen f -
+43230;7;пьяную;ПЬЯНЫЙ;A - acc sg plen f -;;;ю;у;н;я;ь;п;A;ПЬЯНЫЙ;A - acc sg plen f -
+43231;8;ученицу..;УЧЕНИЦА..;S f anim acc sg;;;;;у;ц;и;н;S;УЧЕНИЦА..;S f anim acc sg
+43232;9;в;В;PR;;;в;;;;;;PR;В;PR
+43233;10;такси;ТАКСИ;S n inan nonflex nonflex;;;и;с;к;а;т;;S;ТАКСИ;S n inan 
+43234;11;.;.;SENT;;;;;;;;;SENT;.;SENT
+43235;;;;;;;;;;;;;;;
+43236;1;Вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+43237;2;так;ТАК;ADV -;;;к;а;т;;;;ADV;ТАК;ADV -
+43238;3;вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+43239;4;получилось;ПОЛУЧИТЬСЯ;V pf praet sg indic n -;;;ь;с;о;л;и;ч;V;ПОЛУЧИТЬСЯ;V pf praet sg indic n -
+43240;5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43241;6;она;ОНА;SPRO sg 3p f nom;;;а;н;о;;;;SPRO;ОНА;SPRO sg 3p f nom
+43242;7;тоже;ТОЖЕ;PART;;;е;ж;о;т;;;PART;ТОЖЕ;PART
+43243;8;была;БЫТЬ;V ipf praet sg indic f -;;;а;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic f -
+43244;9;на;НА;PR;;;а;н;;;;;PR;НА;PR
+43245;10;том;ТОТ;A - loc sg plen m -;;;м;о;т;;;;A;ТОТ;A - loc sg plen m -
+43246;11;дне..;ДНО..;S n inan loc sg;;;;;е;н;д;;S;ДНО..;S n inan loc sg
+43247;12;на;НА;PR;;;а;н;;;;;PR;НА;PR
+43248;13;том;ТОТ;A - loc sg plen n -;;;м;о;т;;;;A;ТОТ;A - loc sg plen n -
+43249;14;дне;ДЕНЬ;S n inan loc sg;;;е;н;д;;;;S;ДЕНЬ;S n inan loc sg
+43250;15;рождении;РОЖДЕНИЕ;S n inan loc sg;;;и;и;н;е;д;ж;S;РОЖДЕНИЕ;S n inan loc sg
+43251;16;.;.;SENT;;;;;;;;;SENT;.;SENT
+43252;;;;;;;;;;;;;;;
+43253;1;Она;ОНА;SPRO sg 3p f nom;;;а;н;о;;;;SPRO;ОНА;SPRO sg 3p f nom
+43254;2;говорила;ГОВОРИТЬ;V ipf praet sg indic f -;;;а;л;и;р;о;в;V;ГОВОРИТЬ;V ipf praet sg indic f -
+43255;3;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43256;4;что;ЧТО;CONJ;;;о;т;ч;;;;CONJ;ЧТО;CONJ
+43257;5;ей;ОНА;SPRO sg 3p f dat;;;й;е;;;;;SPRO;ОНА;SPRO sg 3p f dat
+43258;6;очень;ОЧЕНЬ;ADV -;;;ь;н;е;ч;о;;ADV;ОЧЕНЬ;ADV -
+43259;7;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+43260;8;очень;ОЧЕНЬ;ADV -;;;ь;н;е;ч;о;;ADV;ОЧЕНЬ;ADV -
+43261;9;стыдно;СТЫДНО;ADV -;;;о;н;д;ы;т;с;ADV;СТЫДНО;ADV -
+43262;10;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43263;11;она;ОНА;SPRO sg 3p f nom;;;а;н;о;;;;SPRO;ОНА;SPRO sg 3p f nom
+43264;12;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART
+43265;13;знает;ЗНАТЬ;V ipf praes sg indic - 3p;;;т;е;а;н;з;;V;ЗНАТЬ;V ipf praes sg indic tran 3p
+43266;14;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43267;15;как;КАК;CONJ;;;к;а;к;;;;CONJ;КАК;CONJ
+43268;16;придет;ПРИЙТИ;V pf fut sg indic - 3p;;;т;е;д;и;р;п;V;ПРИЙТИ;V pf fut sg indic - 3p
+43269;17;на;НА;PR;;;а;н;;;;;PR;НА;PR
+43270;18;занятие;ЗАНЯТИЕ;S n inan acc sg;;;е;и;т;я;н;а;S;ЗАНЯТИЕ;S n inan acc sg
+43271;19;в;В;PR;;;в;;;;;;PR;В;PR
+43272;20;понедельник;ПОНЕДЕЛЬНИК;S m inan acc sg;;;к;и;н;ь;л;е;S;ПОНЕДЕЛЬНИК;S m inan acc sg
+43273;21;.;.;SENT;;;;;;;;;SENT;.;SENT
+43274;;;;;;;;;;;;;;;
+43275;1;Я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p anim nom
+43276;2;сказала;СКАЗАТЬ;V pf praet sg indic f -;;;а;л;а;з;а;к;V;СКАЗАТЬ;V pf praet sg indic f -
+43277;3;:;:;PUNC;;;;;;;;;PUNC;:;PUNC
+43278;4;бывает;БЫВАТЬ;V ipf praes sg indic - 3p;;;т;е;а;в;ы;б;V;БЫВАТЬ;V ipf praes sg indic - 3p
+43279;5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43280;6;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+43281;7;уехала;УЕХАТЬ;V pf praet sg indic f -;;;а;л;а;х;е;у;V;УЕХАТЬ;V pf praet sg indic f -
+43282;8;на;НА;PR;;;а;н;;;;;PR;НА;PR
+43283;9;метро;МЕТРО;S n inan nonflex nonflex;;;о;р;т;е;м;;S;МЕТРО;S n inan nonflex nonflex
+43284;10;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43285;11;вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+43286;12;.;.;SENT;;;;;;;;;SENT;.;SENT
+43287;;;;;;;;;;;;;;;
+43288;1;Ммм;МММ;S n inan loc sg;;;м;м;м;;;;S;МММ;INTJ
+43289;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43290;3;собственно;СОБСТВЕННО;ADV -;;;о;н;н;е;в;т;ADV;СОБСТВЕННО;PARENTH
+43291;4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43292;5;пока;ПОКА;CONJ;;;а;к;о;п;;;CONJ;ПОКА;ADV -
+43293;6;все;ВСЕ;S - - nom pl;;;е;с;в;;;;S;ВСЕ;SPRO - - nom pl
+43294;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43295;8;что;ЧТО;CONJ;;;о;т;ч;;;;CONJ;ЧТО;CONJ
+43296;9;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+43297;10;могу;МОЧЬ;V ipf praes sg indic - 1p;;;у;г;о;м;;;V;МОЧЬ;V ipf praes sg indic - 1p
+43298;11;вспомнить;ВСПОМНИТЬ;V pf - - inf - -;;;ь;т;и;н;м;о;V;ВСПОМНИТЬ;V pf - - inf - -
+43299;12;.;.;SENT;;;;;;;;;SENT;.;SENT
+43300;;;;;;;;;;;;;;;
+43301;1;Интервьюер;ИНТЕРВЬЮЕР;S m anim nom sg;;;р;е;ю;ь;в;р;S;ИНТЕРВЬЮЕР;S m anim nom sg
+43302;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+43303;3;А;А;S - - nonflex nonflex;;;а;;;;;;S;А;PART
+43304;4;как;КАК;ADV -;;;к;а;к;;;;ADV;КАК;ADV -
+43305;5;на;НА;PR;;;а;н;;;;;PR;НА;PR
+43306;6;учебе;УЧЕБА;S f inan loc sg;;;е;б;е;ч;у;;S;УЧЕБА;S f inan loc sg
+43307;7;дела;ДЕЛО;S n inan acc pl;;;а;л;е;д;;;S;ДЕЛО;S n inan acc pl
+43308;8;?;?;SENT;;;;;;;;;SENT;?;SENT
+43309;;;;;;;;;;;;;;;
+43310;1;Анфиса;АНФИСА;S f anim nom sg;;;а;с;и;ф;н;а;S;АНФИСА;S f anim nom sg
+43311;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+43312;3;Ой;ОЙ;INTJ;;;й;о;;;;;INTJ;ОЙ;INTJ
+43313;4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43314;5;на;НА;PR;;;а;н;;;;;PR;НА;PR
+43315;6;учебе;УЧЕБА;S f inan loc sg;;;е;б;е;ч;у;;S;УЧЕБА;S f inan loc sg
+43316;7;дела;ДЕЛО;S n inan acc pl;;;а;л;е;д;;;S;ДЕЛО;S n inan acc pl
+43317;8;хорошо;ХОРОШО;PART;;;о;ш;о;р;о;х;PART;ХОРОШО;ADV -
+43318;9;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43319;10;вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+43320;11;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43321;12;есть;БЫТЬ;V ipf praes sg indic - 3p;;;ь;т;с;е;;;V;БЫТЬ;V ipf praes sg indic - 3p
+43322;13;время;ВРЕМЯ;S n inan acc sg;;;я;м;е;р;в;;S;ВРЕМЯ;S n inan nom sg
+43323;14;херней;ХЕРНЯ;S f inan ins sg;;;й;е;н;р;е;х;S;ХЕРНЯ;S f inan ins sg
+43324;15;страдать..;СТРАДАТЬ..;V ipf - - inf - -;;;;;ь;т;а;д;V;СТРАДАТЬ..;V ipf - - inf - -
+43325;16;фигней;ФИГНЯ;S f inan gen pl;;;й;е;н;г;и;ф;S;ФИГНЯ;S f inan gen pl
+43326;17;страдать;СТРАДАТЬ;V ipf - - inf - -;;;ь;т;а;д;а;р;V;СТРАДАТЬ;V ipf - - inf - -
+43327;18;.;.;SENT;;;;;;;;;SENT;.;SENT
+43328;;;;;;;;;;;;;;;
+43329;1;Ааа;ААА;S m inan nonflex nonflex;;;а;а;а;;;;S;ААА;PART
+43330;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43331;3;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p anim nom
+43332;4;вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+43333;5;староста;СТАРОСТА;S - anim nom sg;;;а;т;с;о;р;а;S;СТАРОСТА;S - anim nom sg
+43334;6;группы;ГРУППА;S f inan gen sg;;;ы;п;п;у;р;г;S;ГРУППА;S f inan gen sg
+43335;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43336;8;вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+43337;9;у;У;PR;;;у;;;;;;PR;У;PR
+43338;10;меня;Я;SPRO sg 1p - acc;;;я;н;е;м;;;SPRO;Я;SPRO sg 1p - gen
+43339;11;там;ТАМ;ADV -;;;м;а;т;;;;ADV;ТАМ;ADV -
+43340;12;лежит;ЛЕЖАТЬ;V ipf praes sg indic - 3p;;;т;и;ж;е;л;;V;ЛЕЖАТЬ;V ipf praes sg indic - 3p
+43341;13;стопочка;СТОПОЧКА;S f inan nom sg;;;а;к;ч;о;п;о;S;СТОПОЧКА;S f inan nom sg
+43342;14;денег;ДЕНЬГИ;S - inan gen pl;;;г;е;н;е;д;;S;ДЕНЬГИ;S - inan gen pl
+43343;15;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43344;16;которые;КОТОРЫЙ;A - acc pl plen - inan;;;е;ы;р;о;т;о;A;КОТОРЫЙ;APRO - acc pl plen - inan
+43345;17;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+43346;18;собираю;СОБИРАТЬ;V ipf praes sg indic - 1p;;;ю;а;р;и;б;о;V;СОБИРАТЬ;V ipf praes sg indic - 1p
+43347;19;на;НА;PR;;;а;н;;;;;PR;НА;PR
+43348;20;медкнижки;МЕДКНИЖКА;S f inan acc pl;;;и;к;ж;и;н;к;S;МЕДКНИЖКА;S f inan acc pl
+43349;21;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43350;22;нужно;НУЖНО;ADV -;;;о;н;ж;у;н;;ADV;НУЖНО;PRAEDIC
+43351;23;заняться;ЗАНЯТЬСЯ;V pf - - inf - -;;;я;с;ь;т;я;н;V;ЗАНЯТЬСЯ;V pf - - inf - -
+43352;24;тем;ТО;S n - ins sg;;;м;е;т;;;;S;ТО;SPRO  - ins sg
+43353;25;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43354;26;что;ЧТО;CONJ;;;о;т;ч;;;;CONJ;ЧТО;CONJ
+43355;27;подсчитать;ПОДСЧИТАТЬ;V pf - - inf - -;;;ь;т;а;т;и;ч;V;ПОДСЧИТАТЬ;V pf - - inf - -
+43356;28;анкеты..;АНКЕТА..;S m anim dat sg;;;;;ы;т;е;к;S;АНКЕТА..;S m inan dat pl
+43357;29;эээ;ЭЭЭ;NONLEX;;;э;э;э;;;;NONLEX;ЭЭЭ;NONLEX
+43358;30;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43359;31;посчитать;ПОСЧИТАТЬ;V pf - - inf - -;;;ь;т;а;т;и;ч;V;ПОСЧИТАТЬ;V pf - - inf tran -
+43360;32;деньги;ДЕНЬГИ;S - inan acc pl;;;и;г;ь;н;е;д;S;ДЕНЬГИ;S - inan acc pl
+43361;33;еще;ЕЩЕ;ADV -;;;е;щ;е;;;;ADV;ЕЩЕ;ADV -
+43362;34;раз;РАЗ;S m inan acc sg;;;з;а;р;;;;S;РАЗ;S m inan acc sg
+43363;35;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43364;36;потом;ПОТОМ;ADV -;;;м;о;т;о;п;;ADV;ПОТОМ;ADV -
+43365;37;поехать;ПОЕХАТЬ;V pf - - inf - -;;;ь;т;а;х;е;о;V;ПОЕХАТЬ;V pf - - inf - -
+43366;38;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43367;39;заказать;ЗАКАЗАТЬ;V pf - - inf - -;;;ь;т;а;з;а;к;V;ЗАКАЗАТЬ;V pf - - inf - -
+43368;40;всей;ВЕСЬ;A - dat sg plen f -;;;й;е;с;в;;;A;ВЕСЬ;A - dat sg plen f -
+43369;41;группе;ГРУППА;S f inan dat sg;;;е;п;п;у;р;г;S;ГРУППА;S f inan dat sg
+43370;42;медкнижки;МЕДКНИЖКА;S m inan gen sg;;;и;к;ж;и;н;к;S;МЕДКНИЖКА;S m inan gen sg
+43371;43;.;.;SENT;;;;;;;;;SENT;.;SENT
+43372;;;;;;;;;;;;;;;
+43373;1;Это;ЭТО;S n - nom sg;;;о;т;э;;;;S;ЭТО;SPRO n - nom sg
+43374;2;надо;НАДО;ADV -;;;о;д;а;н;;;ADV;НАДО;ADV -
+43375;3;все;ВЕСЬ;A - acc pl plen - inan;;;е;с;в;;;;A;ВЕСЬ;SPRO - acc - inan
+43376;4;сделать;СДЕЛАТЬ;V pf - - inf - -;;;ь;т;а;л;е;д;V;СДЕЛАТЬ;V pf - - inf - -
+43377;5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43378;6;эээ;ЭЭЭ;NONLEX;;;э;э;э;;;;NONLEX;ЭЭЭ;INTJ
+43379;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43380;8;поскорее;СКОРО;ADV comp;;;е;е;р;о;к;с;ADV;СКОРО;ADV comp
+43381;9;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43382;10;поэтому;ПОЭТОМУ;ADV -;;;у;м;о;т;э;о;ADV;ПОЭТОМУ;CONJ
+43383;11;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p anim nom
+43384;12;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART
+43385;13;пойду;ПОЙТИ;V pf fut sg indic - 1p;;;у;д;й;о;п;;V;ПОЙТИ;V pf fut sg indic - 1p
+43386;14;во;ВО;PR;;;о;в;;;;;PR;ВО;PR
+43387;15;вторник;ВТОРНИК;S m inan acc sg;;;к;и;н;р;о;т;S;ВТОРНИК;S m inan acc sg
+43388;16;на;НА;PR;;;а;н;;;;;PR;НА;PR
+43389;17;лекцию;ЛЕКЦИЯ;S f inan acc sg;;;ю;и;ц;к;е;л;S;ЛЕКЦИЯ;S f inan acc sg
+43390;18;по;ПО;PR;;;о;п;;;;;PR;ПО;PR
+43391;19;БЖД;БЖД;NONLEX;abbr;;д;ж;б;;;;NONLEX;БЖД;S sg inan dat
+43392;20;.;.;SENT;;;;;;;;;SENT;.;SENT
+43393;;;;;;;;;;;;;;;
+43394;1;Интервьюер;ИНТЕРВЬЮЕР;S m anim nom sg;;;р;е;ю;ь;в;р;S;ИНТЕРВЬЮЕР;S m anim nom sg
+43395;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+43396;3;Ай-ай-ай;АЙ-АЙ-АЙ;INTJ;;;й;а;;й;а;;INTJ;АЙ-АЙ-АЙ;INTJ
+43397;4;.;.;SENT;;;;;;;;;SENT;.;SENT
+43398;;;;;;;;;;;;;;;
+43399;1;Анфиса;АНФИСА;S f anim nom sg;;;а;с;и;ф;н;а;S;АНФИСА;S f anim nom sg
+43400;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+43401;3;Ай-ай-ай;АЙ-АЙ-АЙ;INTJ;;;й;а;;й;а;;INTJ;АЙ-АЙ-АЙ;INTJ
+43402;4;.;.;SENT;;;;;;;;;SENT;.;SENT
+43403;;;;;;;;;;;;;;;
+43404;1;Интервьюер;ИНТЕРВЬЮЕР;S m anim nom sg;;;р;е;ю;ь;в;р;S;ИНТЕРВЬЮЕР;S m anim nom sg
+43405;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+43406;3;Анфиса;АНФИСА;S f anim nom sg;;;а;с;и;ф;н;а;S;АНФИСА;S f anim nom sg
+43407;4;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+43408;5;Ай-ай-ай;АЙ-АЙ-АЙ;INTJ;;;й;а;;й;а;;INTJ;АЙ-АЙ-АЙ;INTJ
+43409;6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43410;7;это;ЭТО;S n - nom sg;;;о;т;э;;;;S;ЭТО;SPRO - - nom sg
+43411;8;парадокс;ПАРАДОКС;S m inan nom sg;;;с;к;о;д;а;р;S;ПАРАДОКС;S m inan nom sg
+43412;9;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43413;10;параллельные;ПАРАЛЛЕЛЬНЫЙ;A - nom pl plen - -;;;е;ы;н;ь;л;е;A;ПАРАЛЛЕЛЬНЫЙ;A - nom pl plen - -
+43414;11;реалии;РЕАЛИЯ;S f inan nom pl;;;и;и;л;а;е;р;S;РЕАЛИЯ;S f inan nom pl
+43415;12;...;...;SENT;;;;;;;;;SENT;...;SENT
+43416;;;;;;;;;;;;;;;
+43417;1;Анфиса;АНФИСА;S f anim nom sg;;;а;с;и;ф;н;а;S;АНФИСА;S f anim nom sg
+43418;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+43419;3;Ай-ай-ай..;АЙ-АЙ-АЙ..;INTJ;;;;;й;а;;й;INTJ;АЙ-АЙ-АЙ..;INTJ
+43420;4;дальше;ДАЛЕКО;ADV comp;;;е;ш;ь;л;а;д;ADV;ДАЛЕКО;ADV comp
+43421;5;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p anim nom
+43422;6;слов;СЛОВО;S n inan gen pl;;;в;о;л;с;;;S;СЛОВО;S n inan gen pl
+43423;7;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART
+43424;8;знаю;ЗНАТЬ;V ipf praes sg indic - 1p;;;ю;а;н;з;;;V;ЗНАТЬ;V ipf praes sg indic - 1p
+43425;9;.;.;SENT;;;;;;;;;SENT;.;SENT
